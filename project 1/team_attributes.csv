@@ -1,0 +1,1459 @@
+name,team_long_name,date,buildUpPlaySpeed,buildUpPlayDribbling,buildUpPlayPassing,buildUpPlayPositioningClass,chanceCreationShooting,defencePressure,defenceAggression
+Belgium Jupiler League,Royal Excel Mouscron,2015-09-10 00:00:00,50,50,50,Organised,50,45,45
+Italy Serie A,Carpi,2014-09-19 00:00:00,32,46,31,Organised,54,46,44
+Italy Serie A,Carpi,2015-09-10 00:00:00,80,45,65,Organised,50,25,55
+Portugal Liga ZON Sagres,FC Arouca,2014-09-19 00:00:00,69,66,39,Organised,46,35,37
+Portugal Liga ZON Sagres,FC Arouca,2015-09-10 00:00:00,65,66,39,Organised,46,37,39
+France Ligue 1,AC Arles-Avignon,2010-02-22 00:00:00,50,,65,Organised,30,30,50
+France Ligue 1,AC Arles-Avignon,2011-02-22 00:00:00,50,,65,Organised,35,25,45
+France Ligue 1,AC Arles-Avignon,2012-02-22 00:00:00,23,,33,Organised,43,44,32
+France Ligue 1,AC Arles-Avignon,2013-09-20 00:00:00,41,,48,Organised,43,39,43
+France Ligue 1,AC Arles-Avignon,2014-09-19 00:00:00,39,48,54,Organised,43,44,53
+France Ligue 1,AC Arles-Avignon,2015-09-10 00:00:00,56,46,54,Organised,43,48,53
+Spain LIGA BBVA,Real Valladolid,2010-02-22 00:00:00,55,,40,Organised,60,30,65
+Spain LIGA BBVA,Real Valladolid,2011-02-22 00:00:00,54,,55,Organised,62,43,52
+Spain LIGA BBVA,Real Valladolid,2012-02-22 00:00:00,55,,54,Organised,41,51,50
+Spain LIGA BBVA,Real Valladolid,2013-09-20 00:00:00,55,,54,Organised,41,51,50
+Spain LIGA BBVA,Real Valladolid,2014-09-19 00:00:00,55,44,54,Organised,41,51,50
+Spain LIGA BBVA,Real Valladolid,2015-09-10 00:00:00,43,40,65,Organised,57,47,40
+Spain LIGA BBVA,Hércules Club de Fútbol,2010-02-22 00:00:00,40,,30,Organised,70,35,35
+Spain LIGA BBVA,Hércules Club de Fútbol,2011-02-22 00:00:00,54,,55,Organised,59,48,58
+Spain LIGA BBVA,Hércules Club de Fútbol,2012-02-22 00:00:00,53,,54,Organised,60,50,52
+Spain LIGA BBVA,Hércules Club de Fútbol,2013-09-20 00:00:00,53,,54,Organised,60,50,52
+Spain LIGA BBVA,Hércules Club de Fútbol,2014-09-19 00:00:00,53,47,54,Organised,60,50,52
+Germany 1. Bundesliga,VfB Stuttgart,2010-02-22 00:00:00,70,,30,Organised,70,65,50
+Germany 1. Bundesliga,VfB Stuttgart,2011-02-22 00:00:00,64,,48,Organised,56,45,56
+Germany 1. Bundesliga,VfB Stuttgart,2012-02-22 00:00:00,50,,42,Organised,48,47,44
+Germany 1. Bundesliga,VfB Stuttgart,2013-09-20 00:00:00,59,,41,Organised,65,47,52
+Germany 1. Bundesliga,VfB Stuttgart,2014-09-19 00:00:00,54,61,53,Organised,48,46,54
+Germany 1. Bundesliga,VfB Stuttgart,2015-09-10 00:00:00,59,55,41,Organised,48,41,44
+Spain LIGA BBVA,Elche CF,2010-02-22 00:00:00,30,,30,Organised,70,50,45
+Spain LIGA BBVA,Elche CF,2011-02-22 00:00:00,43,,39,Organised,46,40,39
+Spain LIGA BBVA,Elche CF,2012-02-22 00:00:00,55,,73,Organised,57,49,51
+Spain LIGA BBVA,Elche CF,2013-09-20 00:00:00,55,,73,Organised,57,49,51
+Spain LIGA BBVA,Elche CF,2014-09-19 00:00:00,55,47,69,Organised,57,49,51
+Spain LIGA BBVA,Elche CF,2015-09-10 00:00:00,51,52,48,Organised,57,49,51
+Spain LIGA BBVA,Valencia CF,2010-02-22 00:00:00,30,,30,Free Form,70,55,60
+Spain LIGA BBVA,Valencia CF,2011-02-22 00:00:00,41,,40,Organised,64,40,48
+Spain LIGA BBVA,Valencia CF,2012-02-22 00:00:00,20,,35,Organised,55,51,38
+Spain LIGA BBVA,Valencia CF,2013-09-20 00:00:00,20,,35,Organised,55,51,38
+Spain LIGA BBVA,Valencia CF,2014-09-19 00:00:00,30,45,35,Organised,55,51,38
+Spain LIGA BBVA,Valencia CF,2015-09-10 00:00:00,35,46,35,Organised,58,49,45
+Poland Ekstraklasa,Wisła Kraków,2010-02-22 00:00:00,40,,35,Organised,70,70,70
+Poland Ekstraklasa,Wisła Kraków,2011-02-22 00:00:00,67,,48,Organised,67,58,47
+Poland Ekstraklasa,Wisła Kraków,2012-02-22 00:00:00,25,,25,Organised,50,60,58
+Poland Ekstraklasa,Wisła Kraków,2013-09-20 00:00:00,30,,30,Organised,50,60,58
+Poland Ekstraklasa,Wisła Kraków,2014-09-19 00:00:00,47,52,36,Organised,66,60,66
+Poland Ekstraklasa,Wisła Kraków,2015-09-10 00:00:00,33,49,37,Free Form,31,62,58
+Portugal Liga ZON Sagres,SC Braga,2010-02-22 00:00:00,30,,30,Organised,60,30,30
+Portugal Liga ZON Sagres,SC Braga,2011-02-22 00:00:00,30,,30,Organised,60,40,60
+Portugal Liga ZON Sagres,SC Braga,2012-02-22 00:00:00,53,,46,Organised,52,23,48
+Portugal Liga ZON Sagres,SC Braga,2013-09-20 00:00:00,66,,54,Organised,52,25,56
+Portugal Liga ZON Sagres,SC Braga,2014-09-19 00:00:00,53,35,55,Organised,39,25,56
+Portugal Liga ZON Sagres,SC Braga,2015-09-10 00:00:00,55,35,55,Organised,39,25,56
+England Premier League,Newcastle United,2010-02-22 00:00:00,70,,60,Organised,60,45,65
+England Premier League,Newcastle United,2011-02-22 00:00:00,55,,50,Organised,60,45,45
+England Premier League,Newcastle United,2012-02-22 00:00:00,54,,54,Organised,48,52,48
+England Premier League,Newcastle United,2013-09-20 00:00:00,58,,72,Organised,46,41,39
+England Premier League,Newcastle United,2014-09-19 00:00:00,54,33,47,Organised,39,56,54
+England Premier League,Newcastle United,2015-09-10 00:00:00,58,45,49,Organised,46,41,39
+England Premier League,Manchester United,2010-02-22 00:00:00,70,,45,Organised,65,40,50
+England Premier League,Manchester United,2011-02-22 00:00:00,65,,40,Organised,70,45,45
+England Premier League,Manchester United,2012-02-22 00:00:00,46,,54,Organised,55,40,50
+England Premier League,Manchester United,2013-09-20 00:00:00,46,,38,Organised,37,49,49
+England Premier League,Manchester United,2014-09-19 00:00:00,46,34,54,Organised,56,42,41
+England Premier League,Manchester United,2015-09-10 00:00:00,38,42,44,Organised,40,54,53
+England Premier League,Aston Villa,2010-02-22 00:00:00,70,,59,Organised,50,30,70
+England Premier League,Aston Villa,2011-02-22 00:00:00,65,,50,Organised,50,35,45
+England Premier League,Aston Villa,2012-02-22 00:00:00,67,,58,Organised,56,43,50
+England Premier League,Aston Villa,2013-09-20 00:00:00,63,,59,Organised,34,39,41
+England Premier League,Aston Villa,2014-09-19 00:00:00,66,32,72,Organised,56,39,42
+England Premier League,Aston Villa,2015-09-10 00:00:00,63,37,54,Organised,38,35,44
+Scotland Premier League,Hibernian,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,Hibernian,2011-02-22 00:00:00,48,,51,Organised,52,47,47
+Scotland Premier League,Hibernian,2012-02-22 00:00:00,55,,44,Organised,44,42,40
+Scotland Premier League,Hibernian,2013-09-20 00:00:00,60,,46,Organised,44,47,46
+Scotland Premier League,Hibernian,2014-09-19 00:00:00,55,49,44,Organised,49,43,41
+France Ligue 1,Montpellier Hérault SC,2010-02-22 00:00:00,35,,35,Organised,70,70,70
+France Ligue 1,Montpellier Hérault SC,2011-02-22 00:00:00,50,,50,Organised,50,35,55
+France Ligue 1,Montpellier Hérault SC,2012-02-22 00:00:00,52,,47,Organised,52,34,43
+France Ligue 1,Montpellier Hérault SC,2013-09-20 00:00:00,52,,47,Organised,52,34,43
+France Ligue 1,Montpellier Hérault SC,2014-09-19 00:00:00,52,58,47,Organised,52,53,56
+France Ligue 1,Montpellier Hérault SC,2015-09-10 00:00:00,54,43,65,Organised,45,53,56
+Switzerland Super League,FC Zürich,2010-02-22 00:00:00,45,,60,Organised,50,50,55
+Switzerland Super League,FC Zürich,2011-02-22 00:00:00,48,,56,Organised,55,54,49
+Switzerland Super League,FC Zürich,2012-02-22 00:00:00,62,,46,Organised,54,47,43
+Switzerland Super League,FC Zürich,2013-09-20 00:00:00,62,,46,Organised,54,47,43
+Switzerland Super League,FC Zürich,2014-09-19 00:00:00,62,49,46,Organised,54,47,43
+Switzerland Super League,FC Zürich,2015-09-10 00:00:00,62,49,46,Organised,54,47,43
+France Ligue 1,ES Troyes AC,2011-02-22 00:00:00,35,,50,Organised,35,45,45
+France Ligue 1,ES Troyes AC,2012-02-22 00:00:00,49,,51,Organised,49,43,42
+France Ligue 1,ES Troyes AC,2013-09-20 00:00:00,49,,51,Organised,49,43,42
+France Ligue 1,ES Troyes AC,2014-09-19 00:00:00,49,48,51,Organised,46,43,42
+France Ligue 1,ES Troyes AC,2015-09-10 00:00:00,49,48,51,Organised,46,43,42
+Portugal Liga ZON Sagres,Vitória Setúbal,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Portugal Liga ZON Sagres,Vitória Setúbal,2011-02-22 00:00:00,50,,50,Organised,50,35,55
+Portugal Liga ZON Sagres,Vitória Setúbal,2012-02-22 00:00:00,56,,42,Organised,52,37,37
+Portugal Liga ZON Sagres,Vitória Setúbal,2013-09-20 00:00:00,56,,42,Organised,52,37,37
+Portugal Liga ZON Sagres,Vitória Setúbal,2014-09-19 00:00:00,56,49,42,Organised,52,37,37
+Portugal Liga ZON Sagres,Vitória Setúbal,2015-09-10 00:00:00,58,49,42,Organised,52,37,37
+Netherlands Eredivisie,Feyenoord,2010-02-22 00:00:00,30,,30,Organised,46,30,30
+Netherlands Eredivisie,Feyenoord,2011-02-22 00:00:00,47,,53,Free Form,32,48,59
+Netherlands Eredivisie,Feyenoord,2012-02-22 00:00:00,38,,34,Organised,50,43,43
+Netherlands Eredivisie,Feyenoord,2013-09-20 00:00:00,44,,44,Organised,50,43,43
+Netherlands Eredivisie,Feyenoord,2014-09-19 00:00:00,54,40,60,Organised,50,43,43
+Netherlands Eredivisie,Feyenoord,2015-09-10 00:00:00,50,33,48,Organised,31,43,46
+Italy Serie A,Genoa,2010-02-22 00:00:00,70,,50,Organised,65,40,65
+Italy Serie A,Genoa,2011-02-22 00:00:00,65,,35,Organised,50,54,65
+Italy Serie A,Genoa,2012-02-22 00:00:00,50,,50,Organised,50,45,45
+Italy Serie A,Genoa,2013-09-20 00:00:00,64,,38,Organised,49,46,47
+Italy Serie A,Genoa,2014-09-19 00:00:00,64,52,68,Organised,49,23,47
+Italy Serie A,Genoa,2015-09-10 00:00:00,64,52,68,Organised,23,27,47
+Netherlands Eredivisie,AZ,2010-02-22 00:00:00,55,,45,Organised,60,30,30
+Netherlands Eredivisie,AZ,2011-02-22 00:00:00,45,,31,Organised,66,60,50
+Netherlands Eredivisie,AZ,2012-02-22 00:00:00,46,,36,Organised,52,60,65
+Netherlands Eredivisie,AZ,2013-09-20 00:00:00,62,,40,Organised,52,50,65
+Netherlands Eredivisie,AZ,2014-09-19 00:00:00,52,38,46,Organised,52,50,61
+Netherlands Eredivisie,AZ,2015-09-10 00:00:00,50,46,58,Organised,50,50,61
+Netherlands Eredivisie,SC Heerenveen,2010-02-22 00:00:00,35,,30,Organised,60,30,30
+Netherlands Eredivisie,SC Heerenveen,2011-02-22 00:00:00,49,,48,Free Form,52,58,60
+Netherlands Eredivisie,SC Heerenveen,2012-02-22 00:00:00,67,,53,Organised,39,45,44
+Netherlands Eredivisie,SC Heerenveen,2013-09-20 00:00:00,47,,37,Organised,42,46,44
+Netherlands Eredivisie,SC Heerenveen,2014-09-19 00:00:00,53,48,46,Organised,46,46,44
+Netherlands Eredivisie,SC Heerenveen,2015-09-10 00:00:00,54,40,56,Organised,44,46,44
+Netherlands Eredivisie,RKC Waalwijk,2010-02-22 00:00:00,30,,50,Organised,55,50,45
+Netherlands Eredivisie,RKC Waalwijk,2012-02-22 00:00:00,47,,48,Organised,55,41,41
+Netherlands Eredivisie,RKC Waalwijk,2013-09-20 00:00:00,47,,48,Organised,55,29,28
+Netherlands Eredivisie,RKC Waalwijk,2014-09-19 00:00:00,57,30,55,Organised,55,31,30
+Netherlands Eredivisie,Excelsior,2011-02-22 00:00:00,73,,59,Organised,52,25,47
+Netherlands Eredivisie,Excelsior,2012-02-22 00:00:00,47,,52,Organised,37,23,30
+Netherlands Eredivisie,Excelsior,2015-09-10 00:00:00,53,41,69,Organised,43,29,41
+Netherlands Eredivisie,ADO Den Haag,2010-02-22 00:00:00,30,,35,Organised,65,30,30
+Netherlands Eredivisie,ADO Den Haag,2011-02-22 00:00:00,53,,53,Organised,66,46,62
+Netherlands Eredivisie,ADO Den Haag,2012-02-22 00:00:00,38,,44,Organised,44,50,58
+Netherlands Eredivisie,ADO Den Haag,2013-09-20 00:00:00,38,,47,Organised,44,50,58
+Netherlands Eredivisie,ADO Den Haag,2014-09-19 00:00:00,58,47,55,Organised,44,57,50
+Netherlands Eredivisie,ADO Den Haag,2015-09-10 00:00:00,56,40,66,Organised,38,40,50
+Portugal Liga ZON Sagres,Académica de Coimbra,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Portugal Liga ZON Sagres,Académica de Coimbra,2011-02-22 00:00:00,30,,50,Organised,55,30,45
+Portugal Liga ZON Sagres,Académica de Coimbra,2012-02-22 00:00:00,45,,44,Organised,60,52,38
+Portugal Liga ZON Sagres,Académica de Coimbra,2013-09-20 00:00:00,45,,44,Organised,60,52,38
+Portugal Liga ZON Sagres,Académica de Coimbra,2014-09-19 00:00:00,52,53,44,Organised,60,39,38
+Portugal Liga ZON Sagres,Académica de Coimbra,2015-09-10 00:00:00,53,53,44,Organised,60,39,38
+Portugal Liga ZON Sagres,CD Nacional,2010-02-22 00:00:00,45,,30,Organised,50,30,30
+Portugal Liga ZON Sagres,CD Nacional,2011-02-22 00:00:00,47,,30,Organised,50,35,55
+Portugal Liga ZON Sagres,CD Nacional,2012-02-22 00:00:00,41,,43,Organised,53,49,50
+Portugal Liga ZON Sagres,CD Nacional,2013-09-20 00:00:00,41,,43,Organised,53,49,50
+Portugal Liga ZON Sagres,CD Nacional,2014-09-19 00:00:00,41,59,43,Organised,53,42,42
+Portugal Liga ZON Sagres,CD Nacional,2015-09-10 00:00:00,65,59,43,Organised,53,42,42
+Portugal Liga ZON Sagres,CS Marítimo,2010-02-22 00:00:00,30,,30,Organised,65,30,30
+Portugal Liga ZON Sagres,CS Marítimo,2011-02-22 00:00:00,30,,30,Organised,50,49,45
+Portugal Liga ZON Sagres,CS Marítimo,2012-02-22 00:00:00,38,,44,Organised,55,38,49
+Portugal Liga ZON Sagres,CS Marítimo,2013-09-20 00:00:00,38,,44,Organised,55,38,49
+Portugal Liga ZON Sagres,CS Marítimo,2014-09-19 00:00:00,67,49,66,Free Form,55,37,45
+Portugal Liga ZON Sagres,CS Marítimo,2015-09-10 00:00:00,61,49,66,Organised,55,38,49
+Portugal Liga ZON Sagres,SC Beira Mar,2011-02-22 00:00:00,48,,46,Free Form,57,47,55
+Portugal Liga ZON Sagres,SC Beira Mar,2012-02-22 00:00:00,39,,48,Organised,59,37,52
+Portugal Liga ZON Sagres,SC Beira Mar,2013-09-20 00:00:00,39,,48,Organised,59,37,52
+Spain LIGA BBVA,Villarreal CF,2010-02-22 00:00:00,64,,30,Free Form,70,65,30
+Spain LIGA BBVA,Villarreal CF,2011-02-22 00:00:00,42,,41,Free Form,70,50,48
+Spain LIGA BBVA,Villarreal CF,2012-02-22 00:00:00,20,,26,Organised,58,51,51
+Spain LIGA BBVA,Villarreal CF,2013-09-20 00:00:00,24,,26,Organised,58,51,51
+Spain LIGA BBVA,Villarreal CF,2014-09-19 00:00:00,35,42,35,Organised,58,51,51
+Spain LIGA BBVA,Villarreal CF,2015-09-10 00:00:00,48,42,36,Free Form,55,47,48
+Switzerland Super League,FC Luzern,2010-02-22 00:00:00,45,,60,Organised,60,40,45
+Switzerland Super League,FC Luzern,2011-02-22 00:00:00,48,,57,Organised,64,56,45
+Switzerland Super League,FC Luzern,2012-02-22 00:00:00,46,,48,Organised,55,48,47
+Switzerland Super League,FC Luzern,2013-09-20 00:00:00,46,,48,Organised,55,48,47
+Switzerland Super League,FC Luzern,2014-09-19 00:00:00,63,51,51,Organised,66,48,53
+Switzerland Super League,FC Luzern,2015-09-10 00:00:00,63,51,51,Organised,66,48,53
+England Premier League,Stoke City,2010-02-22 00:00:00,65,,70,Organised,55,35,70
+England Premier League,Stoke City,2011-02-22 00:00:00,50,,80,Organised,35,25,65
+England Premier League,Stoke City,2012-02-22 00:00:00,75,,75,Organised,55,50,58
+England Premier League,Stoke City,2013-09-20 00:00:00,75,,73,Organised,38,32,37
+England Premier League,Stoke City,2014-09-19 00:00:00,48,24,55,Organised,37,38,40
+England Premier League,Stoke City,2015-09-10 00:00:00,48,41,49,Organised,49,44,37
+Switzerland Super League,BSC Young Boys,2010-02-22 00:00:00,55,,55,Organised,60,55,55
+Switzerland Super League,BSC Young Boys,2011-02-22 00:00:00,60,,57,Organised,68,48,49
+Switzerland Super League,BSC Young Boys,2012-02-22 00:00:00,52,,69,Organised,46,44,34
+Switzerland Super League,BSC Young Boys,2013-09-20 00:00:00,52,,69,Organised,46,44,34
+Switzerland Super League,BSC Young Boys,2014-09-19 00:00:00,52,56,64,Organised,46,44,34
+Switzerland Super League,BSC Young Boys,2015-09-10 00:00:00,52,56,64,Organised,46,44,34
+Switzerland Super League,FC Thun,2011-02-22 00:00:00,51,,39,Organised,31,37,34
+Switzerland Super League,FC Thun,2012-02-22 00:00:00,58,,35,Organised,66,47,45
+Switzerland Super League,FC Thun,2013-09-20 00:00:00,58,,35,Organised,66,47,45
+Switzerland Super League,FC Thun,2014-09-19 00:00:00,58,59,35,Organised,66,47,45
+Switzerland Super League,FC Thun,2015-09-10 00:00:00,58,59,35,Organised,66,47,45
+Switzerland Super League,FC St. Gallen,2010-02-22 00:00:00,35,,60,Organised,55,50,55
+Switzerland Super League,FC St. Gallen,2011-02-22 00:00:00,47,,55,Organised,56,49,55
+Switzerland Super League,FC St. Gallen,2013-09-20 00:00:00,52,,48,Organised,37,40,41
+Switzerland Super League,FC St. Gallen,2014-09-19 00:00:00,52,46,48,Organised,37,40,41
+Switzerland Super League,FC St. Gallen,2015-09-10 00:00:00,52,46,48,Organised,37,40,36
+Germany 1. Bundesliga,FC Schalke 04,2010-02-22 00:00:00,65,,55,Organised,70,70,45
+Germany 1. Bundesliga,FC Schalke 04,2011-02-22 00:00:00,63,,57,Organised,62,37,67
+Germany 1. Bundesliga,FC Schalke 04,2012-02-22 00:00:00,50,,36,Organised,56,43,44
+Germany 1. Bundesliga,FC Schalke 04,2013-09-20 00:00:00,60,,47,Organised,52,45,58
+Germany 1. Bundesliga,FC Schalke 04,2014-09-19 00:00:00,39,54,45,Organised,41,51,51
+Germany 1. Bundesliga,FC Schalke 04,2015-09-10 00:00:00,58,43,42,Organised,37,55,59
+Switzerland Super League,FC Sion,2010-02-22 00:00:00,35,,60,Organised,60,35,40
+Switzerland Super League,FC Sion,2011-02-22 00:00:00,47,,56,Organised,54,41,43
+Switzerland Super League,FC Sion,2012-02-22 00:00:00,61,,37,Organised,53,45,43
+Switzerland Super League,FC Sion,2013-09-20 00:00:00,61,,37,Organised,53,45,43
+Switzerland Super League,FC Sion,2014-09-19 00:00:00,61,57,37,Organised,53,45,47
+Switzerland Super League,FC Sion,2015-09-10 00:00:00,61,57,37,Organised,53,45,47
+England Premier League,Queens Park Rangers,2010-02-22 00:00:00,70,,70,Organised,70,70,70
+England Premier League,Queens Park Rangers,2011-02-22 00:00:00,51,,49,Organised,52,44,43
+England Premier League,Queens Park Rangers,2012-02-22 00:00:00,57,,58,Organised,48,42,51
+England Premier League,Queens Park Rangers,2013-09-20 00:00:00,58,,54,Organised,54,49,47
+England Premier League,Queens Park Rangers,2014-09-19 00:00:00,52,36,53,Organised,54,50,44
+England Premier League,Queens Park Rangers,2015-09-10 00:00:00,30,39,61,Organised,60,50,44
+Italy Serie A,Parma,2010-02-22 00:00:00,30,,30,Free Form,70,45,30
+Italy Serie A,Parma,2011-02-22 00:00:00,50,,30,Organised,65,45,47
+Italy Serie A,Parma,2012-02-22 00:00:00,45,,35,Organised,50,45,45
+Italy Serie A,Parma,2013-09-20 00:00:00,48,,33,Organised,45,39,43
+Italy Serie A,Parma,2014-09-19 00:00:00,48,71,33,Organised,45,54,66
+Italy Serie A,Parma,2015-09-10 00:00:00,48,66,33,Organised,45,43,43
+England Premier League,Swansea City,2010-02-22 00:00:00,65,,70,Organised,70,70,70
+England Premier League,Swansea City,2011-02-22 00:00:00,66,,34,Organised,64,44,47
+England Premier League,Swansea City,2012-02-22 00:00:00,26,,24,Organised,57,48,58
+England Premier League,Swansea City,2013-09-20 00:00:00,41,,39,Organised,44,52,58
+England Premier League,Swansea City,2014-09-19 00:00:00,63,34,34,Organised,36,51,58
+England Premier League,Swansea City,2015-09-10 00:00:00,45,44,42,Organised,55,31,47
+Belgium Jupiler League,KVC Westerlo,2010-02-22 00:00:00,45,,60,Organised,55,70,70
+Belgium Jupiler League,KVC Westerlo,2011-02-22 00:00:00,34,,52,Free Form,53,48,59
+Belgium Jupiler League,KVC Westerlo,2012-02-22 00:00:00,52,,50,Organised,32,48,45
+Belgium Jupiler League,KVC Westerlo,2015-09-10 00:00:00,52,46,50,Organised,32,48,45
+Belgium Jupiler League,SV Zulte-Waregem,2010-02-22 00:00:00,65,,60,Organised,50,70,60
+Belgium Jupiler League,SV Zulte-Waregem,2011-02-22 00:00:00,52,,52,Organised,53,46,48
+Belgium Jupiler League,SV Zulte-Waregem,2012-02-22 00:00:00,54,,51,Organised,50,44,55
+Belgium Jupiler League,SV Zulte-Waregem,2013-09-20 00:00:00,54,,51,Organised,32,44,58
+Belgium Jupiler League,SV Zulte-Waregem,2014-09-19 00:00:00,54,42,51,Organised,32,44,58
+Belgium Jupiler League,SV Zulte-Waregem,2015-09-10 00:00:00,54,42,51,Organised,32,44,58
+Belgium Jupiler League,KSV Roeselare,2010-02-22 00:00:00,65,,60,Organised,40,65,70
+Belgium Jupiler League,RAEC Mons,2012-02-22 00:00:00,50,,50,Organised,46,46,45
+Belgium Jupiler League,RAEC Mons,2013-09-20 00:00:00,50,,50,Organised,46,46,45
+Belgium Jupiler League,RAEC Mons,2014-09-19 00:00:00,55,50,55,Organised,46,46,45
+Belgium Jupiler League,Sint-Truidense VV,2010-02-22 00:00:00,50,,50,Organised,50,50,50
+Belgium Jupiler League,Sint-Truidense VV,2011-02-22 00:00:00,53,,53,Organised,53,46,46
+Belgium Jupiler League,Sint-Truidense VV,2012-02-22 00:00:00,52,,55,Organised,47,32,40
+Belgium Jupiler League,Royal Excel Mouscron,2015-09-10 00:00:00,50,50,50,Organised,50,45,45
+Belgium Jupiler League,Royal Excel Mouscron,2015-09-10 00:00:00,50,50,50,Organised,50,45,45
+Belgium Jupiler League,Sporting Lokeren,2010-02-22 00:00:00,60,,60,Organised,50,65,65
+Belgium Jupiler League,Sporting Lokeren,2011-02-22 00:00:00,66,,53,Organised,52,48,58
+Belgium Jupiler League,Sporting Lokeren,2012-02-22 00:00:00,67,,52,Organised,50,45,52
+Belgium Jupiler League,Sporting Lokeren,2013-09-20 00:00:00,67,,52,Organised,50,45,52
+Belgium Jupiler League,Sporting Lokeren,2014-09-19 00:00:00,62,45,52,Organised,62,45,52
+Belgium Jupiler League,Sporting Lokeren,2015-09-10 00:00:00,62,45,52,Organised,62,45,52
+Belgium Jupiler League,Beerschot AC,2010-02-22 00:00:00,35,,35,Organised,50,70,70
+Belgium Jupiler League,Beerschot AC,2011-02-22 00:00:00,47,,37,Organised,67,33,34
+Belgium Jupiler League,Beerschot AC,2012-02-22 00:00:00,55,,55,Organised,49,45,46
+Belgium Jupiler League,Beerschot AC,2013-09-20 00:00:00,47,,39,Organised,49,45,46
+Belgium Jupiler League,KAA Gent,2010-02-22 00:00:00,70,,65,Organised,60,45,50
+Belgium Jupiler League,KAA Gent,2011-02-22 00:00:00,55,,55,Organised,56,61,39
+Belgium Jupiler League,KAA Gent,2012-02-22 00:00:00,50,,47,Organised,47,48,45
+Belgium Jupiler League,KAA Gent,2013-09-20 00:00:00,50,,37,Organised,34,50,53
+Belgium Jupiler League,KAA Gent,2014-09-19 00:00:00,50,55,37,Organised,34,55,59
+Belgium Jupiler League,KAA Gent,2015-09-10 00:00:00,50,55,37,Organised,34,49,54
+Belgium Jupiler League,Lierse SK,2011-02-22 00:00:00,48,,65,Organised,50,46,48
+Belgium Jupiler League,Lierse SK,2012-02-22 00:00:00,69,,58,Organised,61,45,49
+Belgium Jupiler League,Lierse SK,2013-09-20 00:00:00,69,,58,Organised,61,38,49
+Belgium Jupiler League,Lierse SK,2014-09-19 00:00:00,69,44,58,Organised,61,38,49
+Belgium Jupiler League,Lierse SK,2015-09-10 00:00:00,69,44,58,Organised,61,38,49
+Belgium Jupiler League,KRC Genk,2010-02-22 00:00:00,45,,45,Organised,60,70,65
+Belgium Jupiler League,KRC Genk,2011-02-22 00:00:00,66,,52,Organised,51,48,47
+Belgium Jupiler League,KRC Genk,2012-02-22 00:00:00,53,,55,Organised,56,47,45
+Belgium Jupiler League,KRC Genk,2013-09-20 00:00:00,58,,38,Organised,56,47,45
+Belgium Jupiler League,KRC Genk,2014-09-19 00:00:00,58,52,38,Organised,56,47,45
+Belgium Jupiler League,KRC Genk,2015-09-10 00:00:00,58,52,38,Organised,56,36,57
+Belgium Jupiler League,Sporting Charleroi,2010-02-22 00:00:00,40,,50,Organised,60,70,70
+Belgium Jupiler League,Sporting Charleroi,2011-02-22 00:00:00,47,,36,Organised,53,49,58
+Belgium Jupiler League,Sporting Charleroi,2013-09-20 00:00:00,60,,53,Organised,48,42,48
+Belgium Jupiler League,Sporting Charleroi,2014-09-19 00:00:00,60,47,53,Organised,48,42,48
+Belgium Jupiler League,Sporting Charleroi,2015-09-10 00:00:00,60,47,53,Organised,48,39,48
+Belgium Jupiler League,Standard de Liège,2010-02-22 00:00:00,53,,40,Organised,65,70,70
+Belgium Jupiler League,Standard de Liège,2011-02-22 00:00:00,68,,66,Organised,63,59,47
+Belgium Jupiler League,Standard de Liège,2012-02-22 00:00:00,75,,70,Organised,60,45,60
+Belgium Jupiler League,Standard de Liège,2013-09-20 00:00:00,54,,62,Organised,60,45,60
+Belgium Jupiler League,Standard de Liège,2014-09-19 00:00:00,54,45,62,Organised,60,45,54
+Belgium Jupiler League,Standard de Liège,2015-09-10 00:00:00,54,45,62,Organised,60,45,54
+Belgium Jupiler League,KSV Cercle Brugge,2010-02-22 00:00:00,45,,35,Organised,55,65,60
+Belgium Jupiler League,KSV Cercle Brugge,2011-02-22 00:00:00,50,,50,Free Form,65,60,50
+Belgium Jupiler League,KSV Cercle Brugge,2012-02-22 00:00:00,68,,54,Organised,42,59,47
+Belgium Jupiler League,KSV Cercle Brugge,2013-09-20 00:00:00,53,,40,Organised,42,59,47
+Belgium Jupiler League,KSV Cercle Brugge,2014-09-19 00:00:00,53,49,43,Organised,42,59,47
+Belgium Jupiler League,KSV Cercle Brugge,2015-09-10 00:00:00,53,49,43,Organised,42,59,47
+Italy Serie A,Bari,2010-02-22 00:00:00,30,,30,Free Form,65,40,30
+Italy Serie A,Bari,2011-02-22 00:00:00,65,,35,Free Form,65,55,45
+Italy Serie A,Bari,2012-02-22 00:00:00,50,,50,Organised,50,45,45
+Italy Serie A,Bari,2013-09-20 00:00:00,55,,57,Organised,60,49,51
+Italy Serie A,Bari,2014-09-19 00:00:00,55,40,57,Organised,56,49,51
+Italy Serie A,Bari,2015-09-10 00:00:00,52,40,65,Organised,48,50,51
+Switzerland Super League,Grasshopper Club Zürich,2010-02-22 00:00:00,30,,50,Organised,55,40,60
+Switzerland Super League,Grasshopper Club Zürich,2011-02-22 00:00:00,67,,53,Organised,63,43,48
+Switzerland Super League,Grasshopper Club Zürich,2012-02-22 00:00:00,50,,54,Organised,46,36,43
+Switzerland Super League,Grasshopper Club Zürich,2013-09-20 00:00:00,50,,54,Organised,46,36,43
+Switzerland Super League,Grasshopper Club Zürich,2014-09-19 00:00:00,50,60,54,Organised,46,36,43
+Switzerland Super League,Grasshopper Club Zürich,2015-09-10 00:00:00,50,60,54,Organised,46,36,43
+France Ligue 1,Toulouse FC,2010-02-22 00:00:00,35,,70,Organised,35,30,45
+France Ligue 1,Toulouse FC,2011-02-22 00:00:00,65,,50,Organised,65,35,55
+France Ligue 1,Toulouse FC,2012-02-22 00:00:00,49,,53,Organised,36,36,45
+France Ligue 1,Toulouse FC,2013-09-20 00:00:00,49,,53,Organised,36,36,45
+France Ligue 1,Toulouse FC,2014-09-19 00:00:00,49,56,53,Organised,57,36,52
+France Ligue 1,Toulouse FC,2015-09-10 00:00:00,49,56,53,Organised,36,36,45
+Scotland Premier League,Dundee United,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,Dundee United,2011-02-22 00:00:00,68,,53,Organised,67,57,57
+Scotland Premier League,Dundee United,2012-02-22 00:00:00,60,,60,Organised,35,40,38
+Scotland Premier League,Dundee United,2013-09-20 00:00:00,53,,52,Organised,42,41,41
+Scotland Premier League,Dundee United,2014-09-19 00:00:00,60,51,60,Organised,38,41,40
+Scotland Premier League,Dundee United,2015-09-10 00:00:00,60,58,53,Organised,45,48,42
+Switzerland Super League,FC Basel,2010-02-22 00:00:00,40,,45,Organised,50,60,60
+Switzerland Super League,FC Basel,2011-02-22 00:00:00,46,,40,Organised,49,38,53
+Switzerland Super League,FC Basel,2012-02-22 00:00:00,61,,46,Organised,54,47,58
+Switzerland Super League,FC Basel,2013-09-20 00:00:00,61,,46,Organised,54,47,58
+Switzerland Super League,FC Basel,2014-09-19 00:00:00,61,63,46,Organised,54,47,58
+Switzerland Super League,FC Basel,2015-09-10 00:00:00,61,63,46,Organised,54,47,58
+Switzerland Super League,FC Aarau,2010-02-22 00:00:00,60,,50,Organised,55,50,55
+Switzerland Super League,FC Aarau,2014-09-19 00:00:00,52,48,56,Organised,64,47,44
+Switzerland Super League,FC Aarau,2015-09-10 00:00:00,47,41,54,Organised,64,47,44
+Scotland Premier League,Motherwell,2010-02-22 00:00:00,70,,70,Organised,65,60,70
+Scotland Premier League,Motherwell,2011-02-22 00:00:00,48,,49,Organised,48,47,46
+Scotland Premier League,Motherwell,2012-02-22 00:00:00,70,,55,Organised,60,38,42
+Scotland Premier League,Motherwell,2013-09-20 00:00:00,67,,54,Organised,58,39,43
+Scotland Premier League,Motherwell,2014-09-19 00:00:00,70,47,55,Organised,60,41,43
+Scotland Premier League,Motherwell,2015-09-10 00:00:00,64,46,55,Organised,27,37,44
+Scotland Premier League,Celtic,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,Celtic,2011-02-22 00:00:00,54,,52,Organised,51,46,46
+Scotland Premier League,Celtic,2012-02-22 00:00:00,70,,58,Organised,60,50,50
+Scotland Premier League,Celtic,2013-09-20 00:00:00,50,,53,Organised,60,55,51
+Scotland Premier League,Celtic,2014-09-19 00:00:00,70,52,58,Organised,62,51,54
+Scotland Premier League,Celtic,2015-09-10 00:00:00,54,49,53,Organised,62,58,55
+Germany 1. Bundesliga,DSC Arminia Bielefeld,2010-02-22 00:00:00,40,,65,Organised,50,45,40
+Germany 1. Bundesliga,DSC Arminia Bielefeld,2011-02-22 00:00:00,46,,58,Organised,42,38,48
+Germany 1. Bundesliga,DSC Arminia Bielefeld,2014-09-19 00:00:00,62,49,55,Organised,52,36,54
+Germany 1. Bundesliga,VfL Bochum,2010-02-22 00:00:00,50,,65,Organised,50,40,60
+Germany 1. Bundesliga,VfL Bochum,2011-02-22 00:00:00,55,,56,Organised,52,48,60
+Germany 1. Bundesliga,VfL Bochum,2012-02-22 00:00:00,40,,48,Organised,37,34,53
+Germany 1. Bundesliga,VfL Bochum,2013-09-20 00:00:00,40,,48,Organised,37,40,53
+Germany 1. Bundesliga,VfL Bochum,2014-09-19 00:00:00,38,54,48,Organised,36,34,53
+Germany 1. Bundesliga,VfL Bochum,2015-09-10 00:00:00,69,38,57,Organised,66,58,47
+Spain LIGA BBVA,RC Celta de Vigo,2010-02-22 00:00:00,35,,30,Organised,70,35,30
+Spain LIGA BBVA,RC Celta de Vigo,2011-02-22 00:00:00,43,,44,Organised,60,40,41
+Spain LIGA BBVA,RC Celta de Vigo,2012-02-22 00:00:00,53,,62,Organised,52,42,52
+Spain LIGA BBVA,RC Celta de Vigo,2013-09-20 00:00:00,53,,62,Organised,52,42,52
+Spain LIGA BBVA,RC Celta de Vigo,2014-09-19 00:00:00,53,54,62,Organised,52,42,52
+Spain LIGA BBVA,RC Celta de Vigo,2015-09-10 00:00:00,55,59,38,Organised,50,55,55
+Netherlands Eredivisie,FC Utrecht,2010-02-22 00:00:00,45,,45,Organised,67,30,30
+Netherlands Eredivisie,FC Utrecht,2011-02-22 00:00:00,66,,45,Organised,72,34,57
+Netherlands Eredivisie,FC Utrecht,2012-02-22 00:00:00,47,,52,Organised,52,45,49
+Netherlands Eredivisie,FC Utrecht,2013-09-20 00:00:00,47,,52,Organised,60,45,49
+Netherlands Eredivisie,FC Utrecht,2014-09-19 00:00:00,50,50,52,Organised,52,45,49
+Netherlands Eredivisie,FC Utrecht,2015-09-10 00:00:00,50,39,54,Organised,28,54,58
+Spain LIGA BBVA,Atlético Madrid,2010-02-22 00:00:00,64,,30,Free Form,70,70,34
+Spain LIGA BBVA,Atlético Madrid,2011-02-22 00:00:00,57,,54,Organised,79,58,48
+Spain LIGA BBVA,Atlético Madrid,2012-02-22 00:00:00,47,,51,Organised,54,52,37
+Spain LIGA BBVA,Atlético Madrid,2013-09-20 00:00:00,47,,51,Organised,54,52,37
+Spain LIGA BBVA,Atlético Madrid,2014-09-19 00:00:00,47,52,51,Organised,54,52,37
+Spain LIGA BBVA,Atlético Madrid,2015-09-10 00:00:00,57,50,50,Organised,49,49,42
+Germany 1. Bundesliga,1. FSV Mainz 05,2010-02-22 00:00:00,45,,40,Organised,70,50,70
+Germany 1. Bundesliga,1. FSV Mainz 05,2011-02-22 00:00:00,65,,50,Organised,53,57,53
+Germany 1. Bundesliga,1. FSV Mainz 05,2012-02-22 00:00:00,68,,57,Organised,60,52,65
+Germany 1. Bundesliga,1. FSV Mainz 05,2013-09-20 00:00:00,66,,52,Organised,56,48,65
+Germany 1. Bundesliga,1. FSV Mainz 05,2014-09-19 00:00:00,67,54,57,Organised,44,53,60
+Germany 1. Bundesliga,1. FSV Mainz 05,2015-09-10 00:00:00,60,43,53,Organised,44,55,62
+Germany 1. Bundesliga,Hannover 96,2010-02-22 00:00:00,55,,70,Organised,65,70,70
+Germany 1. Bundesliga,Hannover 96,2011-02-22 00:00:00,55,,56,Organised,53,39,37
+Germany 1. Bundesliga,Hannover 96,2012-02-22 00:00:00,65,,58,Organised,64,39,45
+Germany 1. Bundesliga,Hannover 96,2013-09-20 00:00:00,78,,58,Organised,41,39,48
+Germany 1. Bundesliga,Hannover 96,2014-09-19 00:00:00,48,55,38,Organised,40,37,48
+Germany 1. Bundesliga,Hannover 96,2015-09-10 00:00:00,48,55,41,Organised,40,35,50
+Italy Serie A,Frosinone,2010-02-22 00:00:00,30,,30,Organised,65,30,30
+Italy Serie A,Frosinone,2011-02-22 00:00:00,70,,48,Organised,65,61,67
+Italy Serie A,Frosinone,2015-09-10 00:00:00,63,48,46,Organised,50,55,57
+Italy Serie A,Lecce,2010-02-22 00:00:00,40,,30,Organised,70,30,70
+Italy Serie A,Lecce,2011-02-22 00:00:00,50,,50,Organised,52,30,55
+Italy Serie A,Lecce,2012-02-22 00:00:00,45,,50,Organised,35,35,55
+Italy Serie A,Juventus,2010-02-22 00:00:00,45,,35,Free Form,70,50,35
+Italy Serie A,Juventus,2011-02-22 00:00:00,65,,50,Organised,50,55,55
+Italy Serie A,Juventus,2012-02-22 00:00:00,50,,35,Organised,50,35,55
+Italy Serie A,Juventus,2013-09-20 00:00:00,39,,33,Organised,72,66,67
+Italy Serie A,Juventus,2014-09-19 00:00:00,26,47,24,Organised,72,23,67
+Italy Serie A,Juventus,2015-09-10 00:00:00,50,35,20,Organised,80,35,65
+Italy Serie A,Sampdoria,2010-02-22 00:00:00,60,,30,Organised,65,50,30
+Italy Serie A,Sampdoria,2011-02-22 00:00:00,50,,65,Organised,50,35,45
+Italy Serie A,Sampdoria,2012-02-22 00:00:00,35,,35,Organised,35,45,45
+Italy Serie A,Sampdoria,2013-09-20 00:00:00,36,,38,Organised,33,50,51
+Italy Serie A,Sampdoria,2014-09-19 00:00:00,36,56,38,Organised,62,54,57
+Italy Serie A,Sampdoria,2015-09-10 00:00:00,36,56,38,Organised,29,50,51
+Italy Serie A,Cesena,2010-02-22 00:00:00,30,,30,Organised,65,50,30
+Italy Serie A,Cesena,2011-02-22 00:00:00,50,,50,Organised,50,35,55
+Italy Serie A,Cesena,2012-02-22 00:00:00,60,,40,Organised,65,35,45
+Italy Serie A,Cesena,2013-09-20 00:00:00,73,,44,Organised,73,39,49
+Italy Serie A,Cesena,2014-09-19 00:00:00,73,29,41,Organised,73,39,49
+Italy Serie A,Cesena,2015-09-10 00:00:00,66,31,41,Organised,66,39,49
+England Premier League,Fulham,2010-02-22 00:00:00,60,,70,Organised,50,40,35
+England Premier League,Fulham,2011-02-22 00:00:00,50,,55,Organised,40,45,35
+England Premier League,Fulham,2012-02-22 00:00:00,48,,45,Organised,54,38,38
+England Premier League,Fulham,2013-09-20 00:00:00,52,,49,Organised,59,39,39
+England Premier League,Fulham,2014-09-19 00:00:00,52,34,56,Organised,54,29,28
+England Premier League,Fulham,2015-09-10 00:00:00,52,34,48,Organised,59,29,30
+Italy Serie A,Pescara,2011-02-22 00:00:00,50,,60,Organised,35,35,60
+Italy Serie A,Pescara,2012-02-22 00:00:00,65,,65,Organised,65,45,45
+Italy Serie A,Pescara,2013-09-20 00:00:00,55,,40,Organised,36,44,48
+Italy Serie A,Pescara,2014-09-19 00:00:00,64,52,36,Organised,54,26,46
+Italy Serie A,Pescara,2015-09-10 00:00:00,64,31,53,Organised,41,39,46
+Italy Serie A,Hellas Verona,2012-02-22 00:00:00,50,,50,Organised,50,45,55
+Italy Serie A,Hellas Verona,2013-09-20 00:00:00,58,,63,Organised,61,47,59
+Italy Serie A,Hellas Verona,2014-09-19 00:00:00,63,46,48,Organised,55,31,47
+Italy Serie A,Hellas Verona,2015-09-10 00:00:00,57,29,38,Organised,55,47,59
+Italy Serie A,Napoli,2010-02-22 00:00:00,70,,30,Free Form,70,50,70
+Italy Serie A,Napoli,2011-02-22 00:00:00,50,,35,Free Form,50,50,70
+Italy Serie A,Napoli,2012-02-22 00:00:00,60,,50,Organised,50,45,55
+Italy Serie A,Napoli,2013-09-20 00:00:00,68,,52,Organised,53,44,57
+Italy Serie A,Napoli,2014-09-19 00:00:00,72,74,34,Organised,73,61,59
+Italy Serie A,Napoli,2015-09-10 00:00:00,53,70,37,Organised,67,47,57
+France Ligue 1,FC Sochaux-Montbéliard,2010-02-22 00:00:00,66,,70,Organised,50,65,30
+France Ligue 1,FC Sochaux-Montbéliard,2011-02-22 00:00:00,50,,50,Organised,35,45,55
+France Ligue 1,FC Sochaux-Montbéliard,2012-02-22 00:00:00,63,,39,Organised,49,54,43
+France Ligue 1,FC Sochaux-Montbéliard,2013-09-20 00:00:00,63,,39,Organised,49,54,43
+France Ligue 1,FC Sochaux-Montbéliard,2014-09-19 00:00:00,63,62,39,Organised,49,54,43
+France Ligue 1,FC Sochaux-Montbéliard,2015-09-10 00:00:00,63,62,39,Organised,49,54,43
+France Ligue 1,Valenciennes FC,2010-02-22 00:00:00,60,,70,Organised,60,30,55
+France Ligue 1,Valenciennes FC,2011-02-22 00:00:00,65,,50,Organised,50,45,45
+France Ligue 1,Valenciennes FC,2012-02-22 00:00:00,49,,50,Organised,61,43,57
+France Ligue 1,Valenciennes FC,2013-09-20 00:00:00,49,,50,Organised,61,43,57
+France Ligue 1,Valenciennes FC,2014-09-19 00:00:00,49,59,52,Organised,56,47,51
+France Ligue 1,Valenciennes FC,2015-09-10 00:00:00,49,59,52,Organised,56,47,51
+Spain LIGA BBVA,Real Sporting de Gijón,2010-02-22 00:00:00,70,,55,Organised,70,70,70
+Spain LIGA BBVA,Real Sporting de Gijón,2011-02-22 00:00:00,68,,53,Organised,65,58,51
+Spain LIGA BBVA,Real Sporting de Gijón,2012-02-22 00:00:00,51,,43,Organised,44,36,60
+Spain LIGA BBVA,Real Sporting de Gijón,2013-09-20 00:00:00,55,,43,Organised,44,36,60
+Spain LIGA BBVA,Real Sporting de Gijón,2014-09-19 00:00:00,55,48,43,Organised,44,36,60
+Spain LIGA BBVA,Real Sporting de Gijón,2015-09-10 00:00:00,55,48,50,Organised,38,45,54
+Spain LIGA BBVA,Xerez Club Deportivo,2010-02-22 00:00:00,30,,30,Organised,70,45,50
+Spain LIGA BBVA,Xerez Club Deportivo,2011-02-22 00:00:00,40,,58,Organised,49,46,52
+Spain LIGA BBVA,Xerez Club Deportivo,2012-02-22 00:00:00,60,,44,Organised,41,49,54
+Spain LIGA BBVA,Xerez Club Deportivo,2013-09-20 00:00:00,60,,44,Organised,41,49,54
+Spain LIGA BBVA,CD Tenerife,2010-02-22 00:00:00,30,,30,Organised,65,50,30
+Spain LIGA BBVA,CD Tenerife,2011-02-22 00:00:00,56,,51,Organised,60,57,50
+Spain LIGA BBVA,CD Tenerife,2014-09-19 00:00:00,56,50,57,Organised,54,52,50
+Spain LIGA BBVA,CD Tenerife,2015-09-10 00:00:00,56,50,57,Organised,54,52,50
+Spain LIGA BBVA,UD Almería,2010-02-22 00:00:00,65,,45,Organised,70,70,65
+Spain LIGA BBVA,UD Almería,2011-02-22 00:00:00,55,,53,Organised,69,58,68
+Spain LIGA BBVA,UD Almería,2012-02-22 00:00:00,42,,70,Organised,40,37,53
+Spain LIGA BBVA,UD Almería,2013-09-20 00:00:00,46,,65,Organised,40,37,53
+Spain LIGA BBVA,UD Almería,2014-09-19 00:00:00,46,41,65,Organised,40,37,53
+Spain LIGA BBVA,UD Almería,2015-09-10 00:00:00,46,41,65,Organised,40,37,53
+Spain LIGA BBVA,Málaga CF,2010-02-22 00:00:00,60,,55,Organised,70,45,65
+Spain LIGA BBVA,Málaga CF,2011-02-22 00:00:00,58,,54,Organised,61,45,47
+Spain LIGA BBVA,Málaga CF,2012-02-22 00:00:00,41,,36,Organised,50,64,58
+Spain LIGA BBVA,Málaga CF,2013-09-20 00:00:00,45,,36,Organised,50,64,58
+Spain LIGA BBVA,Málaga CF,2014-09-19 00:00:00,45,42,36,Organised,50,64,58
+Spain LIGA BBVA,Málaga CF,2015-09-10 00:00:00,42,51,36,Organised,50,47,37
+Scotland Premier League,Heart of Midlothian,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,Heart of Midlothian,2011-02-22 00:00:00,66,,53,Organised,66,56,68
+Scotland Premier League,Heart of Midlothian,2012-02-22 00:00:00,55,,62,Organised,60,50,52
+Scotland Premier League,Heart of Midlothian,2013-09-20 00:00:00,52,,53,Organised,64,52,53
+Scotland Premier League,Heart of Midlothian,2014-09-19 00:00:00,55,51,62,Organised,60,49,52
+Italy Serie A,Brescia,2010-02-22 00:00:00,30,,30,Organised,70,45,30
+Italy Serie A,Brescia,2011-02-22 00:00:00,30,,50,Organised,65,45,45
+Italy Serie A,Brescia,2012-02-22 00:00:00,35,,35,Organised,65,35,45
+Italy Serie A,Brescia,2013-09-20 00:00:00,42,,43,Organised,75,41,52
+Italy Serie A,Brescia,2014-09-19 00:00:00,42,56,27,Organised,75,41,52
+Italy Serie A,Brescia,2015-09-10 00:00:00,42,56,43,Organised,69,41,52
+Italy Serie A,Bologna,2010-02-22 00:00:00,65,,55,Organised,65,55,30
+Italy Serie A,Bologna,2011-02-22 00:00:00,65,,35,Organised,50,30,50
+Italy Serie A,Bologna,2012-02-22 00:00:00,40,,50,Organised,50,35,45
+Italy Serie A,Bologna,2013-09-20 00:00:00,63,,48,Organised,63,43,43
+Italy Serie A,Bologna,2014-09-19 00:00:00,63,53,48,Organised,52,28,54
+Italy Serie A,Bologna,2015-09-10 00:00:00,63,53,48,Organised,52,30,54
+France Ligue 1,Grenoble Foot 38,2010-02-22 00:00:00,70,,70,Organised,70,70,55
+France Ligue 1,Grenoble Foot 38,2011-02-22 00:00:00,50,,50,Organised,50,45,45
+France Ligue 1,AS Saint-Étienne,2010-02-22 00:00:00,65,,65,Organised,60,30,30
+France Ligue 1,AS Saint-Étienne,2011-02-22 00:00:00,65,,35,Organised,65,35,45
+France Ligue 1,AS Saint-Étienne,2012-02-22 00:00:00,49,,52,Organised,52,35,44
+France Ligue 1,AS Saint-Étienne,2013-09-20 00:00:00,49,,52,Organised,52,35,44
+France Ligue 1,AS Saint-Étienne,2014-09-19 00:00:00,58,55,52,Organised,52,35,44
+France Ligue 1,AS Saint-Étienne,2015-09-10 00:00:00,58,55,52,Organised,52,48,51
+France Ligue 1,Stade Rennais FC,2010-02-22 00:00:00,50,,45,Organised,60,70,70
+France Ligue 1,Stade Rennais FC,2011-02-22 00:00:00,65,,35,Organised,65,55,45
+France Ligue 1,Stade Rennais FC,2012-02-22 00:00:00,64,,41,Organised,64,46,44
+France Ligue 1,Stade Rennais FC,2013-09-20 00:00:00,64,,41,Organised,64,46,44
+France Ligue 1,Stade Rennais FC,2014-09-19 00:00:00,64,62,41,Organised,64,46,44
+France Ligue 1,Stade Rennais FC,2015-09-10 00:00:00,64,62,41,Organised,64,46,44
+England Premier League,Norwich City,2010-02-22 00:00:00,65,,70,Organised,55,60,70
+England Premier League,Norwich City,2011-02-22 00:00:00,49,,52,Organised,66,34,54
+England Premier League,Norwich City,2012-02-22 00:00:00,63,,61,Organised,62,40,50
+England Premier League,Norwich City,2013-09-20 00:00:00,70,,70,Organised,48,40,43
+England Premier League,Norwich City,2014-09-19 00:00:00,45,28,64,Organised,42,40,43
+England Premier League,Norwich City,2015-09-10 00:00:00,45,38,55,Organised,47,38,39
+France Ligue 1,Paris Saint-Germain,2010-02-22 00:00:00,50,,65,Organised,55,70,70
+France Ligue 1,Paris Saint-Germain,2011-02-22 00:00:00,35,,35,Organised,50,45,55
+France Ligue 1,Paris Saint-Germain,2012-02-22 00:00:00,49,,41,Organised,60,49,46
+France Ligue 1,Paris Saint-Germain,2013-09-20 00:00:00,49,,41,Organised,60,49,46
+France Ligue 1,Paris Saint-Germain,2014-09-19 00:00:00,49,70,55,Organised,68,57,53
+France Ligue 1,Paris Saint-Germain,2015-09-10 00:00:00,49,47,34,Organised,35,57,53
+Netherlands Eredivisie,VVV-Venlo,2010-02-22 00:00:00,50,,50,Organised,50,50,50
+Netherlands Eredivisie,VVV-Venlo,2011-02-22 00:00:00,50,,42,Organised,50,38,47
+Netherlands Eredivisie,VVV-Venlo,2012-02-22 00:00:00,41,,52,Organised,47,46,55
+Netherlands Eredivisie,VVV-Venlo,2013-09-20 00:00:00,41,,52,Organised,52,29,42
+France Ligue 1,Stade de Reims,2011-02-22 00:00:00,35,,50,Organised,50,45,45
+France Ligue 1,Stade de Reims,2012-02-22 00:00:00,61,,48,Organised,50,33,44
+France Ligue 1,Stade de Reims,2013-09-20 00:00:00,61,,48,Organised,50,33,44
+France Ligue 1,Stade de Reims,2014-09-19 00:00:00,48,58,48,Organised,50,33,44
+France Ligue 1,Stade de Reims,2015-09-10 00:00:00,48,37,49,Organised,58,33,44
+France Ligue 1,Dijon FCO,2010-02-22 00:00:00,55,,40,Organised,55,30,60
+France Ligue 1,Dijon FCO,2011-02-22 00:00:00,65,,50,Organised,50,35,45
+France Ligue 1,Dijon FCO,2012-02-22 00:00:00,51,,49,Organised,52,45,46
+France Ligue 1,Dijon FCO,2013-09-20 00:00:00,51,,49,Organised,52,45,46
+France Ligue 1,Dijon FCO,2014-09-19 00:00:00,51,54,49,Organised,52,45,46
+France Ligue 1,Dijon FCO,2015-09-10 00:00:00,51,54,49,Organised,52,45,46
+France Ligue 1,OGC Nice,2010-02-22 00:00:00,70,,70,Organised,65,70,70
+France Ligue 1,OGC Nice,2011-02-22 00:00:00,50,,50,Organised,65,45,45
+France Ligue 1,OGC Nice,2012-02-22 00:00:00,48,,66,Organised,34,26,47
+France Ligue 1,OGC Nice,2013-09-20 00:00:00,48,,66,Organised,34,56,47
+France Ligue 1,OGC Nice,2014-09-19 00:00:00,48,61,66,Organised,34,56,47
+France Ligue 1,OGC Nice,2015-09-10 00:00:00,48,55,53,Organised,38,57,47
+France Ligue 1,FC Nantes,2010-02-22 00:00:00,55,,35,Organised,35,30,45
+France Ligue 1,FC Nantes,2011-02-22 00:00:00,50,,50,Organised,35,45,55
+France Ligue 1,FC Nantes,2012-02-22 00:00:00,46,,51,Organised,49,47,43
+France Ligue 1,FC Nantes,2013-09-20 00:00:00,46,,51,Organised,49,47,51
+France Ligue 1,FC Nantes,2014-09-19 00:00:00,63,53,48,Organised,49,47,51
+France Ligue 1,FC Nantes,2015-09-10 00:00:00,63,70,56,Organised,46,39,41
+France Ligue 1,AS Monaco,2010-02-22 00:00:00,35,,55,Organised,45,70,65
+France Ligue 1,AS Monaco,2011-02-22 00:00:00,65,,50,Organised,50,35,55
+France Ligue 1,AS Monaco,2012-02-22 00:00:00,52,,48,Organised,37,35,34
+France Ligue 1,AS Monaco,2013-09-20 00:00:00,52,,48,Organised,37,35,34
+France Ligue 1,AS Monaco,2014-09-19 00:00:00,52,68,48,Organised,37,35,34
+France Ligue 1,AS Monaco,2015-09-10 00:00:00,52,42,43,Organised,23,56,62
+France Ligue 1,Girondins de Bordeaux,2010-02-22 00:00:00,70,,35,Organised,70,55,70
+France Ligue 1,Girondins de Bordeaux,2011-02-22 00:00:00,50,,35,Organised,65,55,45
+France Ligue 1,Girondins de Bordeaux,2012-02-22 00:00:00,49,,37,Organised,51,44,46
+France Ligue 1,Girondins de Bordeaux,2013-09-20 00:00:00,49,,37,Organised,51,44,46
+France Ligue 1,Girondins de Bordeaux,2014-09-19 00:00:00,38,49,36,Organised,51,37,33
+France Ligue 1,Girondins de Bordeaux,2015-09-10 00:00:00,51,40,48,Organised,44,57,52
+England Premier League,Crystal Palace,2010-02-22 00:00:00,70,,70,Organised,65,65,60
+England Premier League,Crystal Palace,2011-02-22 00:00:00,53,,54,Organised,52,48,43
+England Premier League,Crystal Palace,2012-02-22 00:00:00,43,,46,Organised,47,44,27
+England Premier League,Crystal Palace,2013-09-20 00:00:00,52,,47,Organised,47,36,33
+England Premier League,Crystal Palace,2014-09-19 00:00:00,61,36,68,Organised,52,36,34
+England Premier League,Crystal Palace,2015-09-10 00:00:00,61,45,67,Organised,50,36,34
+England Premier League,Arsenal,2010-02-22 00:00:00,66,,30,Free Form,35,30,40
+England Premier League,Arsenal,2011-02-22 00:00:00,75,,40,Free Form,65,50,40
+England Premier League,Arsenal,2012-02-22 00:00:00,25,,32,Organised,30,57,57
+England Premier League,Arsenal,2013-09-20 00:00:00,30,,29,Organised,39,64,54
+England Premier League,Arsenal,2014-09-19 00:00:00,59,51,26,Organised,64,51,44
+England Premier League,Arsenal,2015-09-10 00:00:00,59,51,30,Organised,46,51,44
+Switzerland Super League,FC Vaduz,2015-09-10 00:00:00,53,32,56,Organised,46,42,33
+Germany 1. Bundesliga,FC Bayern Munich,2010-02-22 00:00:00,65,,40,Free Form,70,70,40
+Germany 1. Bundesliga,FC Bayern Munich,2011-02-22 00:00:00,42,,40,Organised,72,39,52
+Germany 1. Bundesliga,FC Bayern Munich,2012-02-22 00:00:00,47,,40,Organised,55,49,35
+Germany 1. Bundesliga,FC Bayern Munich,2013-09-20 00:00:00,56,,41,Organised,39,52,54
+Germany 1. Bundesliga,FC Bayern Munich,2014-09-19 00:00:00,37,34,22,Free Form,40,61,59
+Germany 1. Bundesliga,FC Bayern Munich,2015-09-10 00:00:00,45,24,28,Free Form,22,72,53
+England Premier League,Watford,2010-02-22 00:00:00,70,,70,Organised,65,70,70
+England Premier League,Watford,2011-02-22 00:00:00,64,,53,Organised,48,44,47
+England Premier League,Watford,2012-02-22 00:00:00,66,,66,Organised,60,48,50
+England Premier League,Watford,2013-09-20 00:00:00,67,,45,Organised,53,38,52
+England Premier League,Watford,2014-09-19 00:00:00,61,43,56,Organised,55,38,52
+England Premier League,Watford,2015-09-10 00:00:00,61,32,52,Organised,45,38,52
+Germany 1. Bundesliga,Eintracht Frankfurt,2010-02-22 00:00:00,60,,35,Organised,60,65,30
+Germany 1. Bundesliga,Eintracht Frankfurt,2011-02-22 00:00:00,52,,43,Organised,41,48,50
+Germany 1. Bundesliga,Eintracht Frankfurt,2012-02-22 00:00:00,38,,34,Organised,48,46,45
+Germany 1. Bundesliga,Eintracht Frankfurt,2013-09-20 00:00:00,41,,34,Organised,48,46,45
+Germany 1. Bundesliga,Eintracht Frankfurt,2014-09-19 00:00:00,63,48,42,Organised,52,43,46
+Germany 1. Bundesliga,Eintracht Frankfurt,2015-09-10 00:00:00,51,41,38,Organised,40,48,42
+Portugal Liga ZON Sagres,Naval 1° de Maio,2010-02-22 00:00:00,30,,30,Organised,70,30,30
+Portugal Liga ZON Sagres,Naval 1° de Maio,2011-02-22 00:00:00,50,,65,Organised,50,45,41
+Portugal Liga ZON Sagres,CF Os Belenenses,2010-02-22 00:00:00,30,,30,Organised,60,30,30
+Portugal Liga ZON Sagres,CF Os Belenenses,2014-09-19 00:00:00,52,53,52,Organised,48,38,48
+Portugal Liga ZON Sagres,CF Os Belenenses,2015-09-10 00:00:00,51,53,52,Organised,48,38,48
+Italy Serie A,Torino,2010-02-22 00:00:00,45,,35,Organised,70,45,35
+Italy Serie A,Torino,2011-02-22 00:00:00,45,,35,Organised,35,45,45
+Italy Serie A,Torino,2012-02-22 00:00:00,50,,50,Organised,50,35,45
+Italy Serie A,Torino,2013-09-20 00:00:00,71,,36,Organised,53,39,46
+Italy Serie A,Torino,2014-09-19 00:00:00,76,69,64,Organised,53,39,34
+Italy Serie A,Torino,2015-09-10 00:00:00,69,69,36,Organised,53,39,46
+Netherlands Eredivisie,Roda JC Kerkrade,2010-02-22 00:00:00,30,,35,Organised,70,30,30
+Netherlands Eredivisie,Roda JC Kerkrade,2011-02-22 00:00:00,65,,51,Organised,53,48,57
+Netherlands Eredivisie,Roda JC Kerkrade,2012-02-22 00:00:00,55,,52,Organised,54,47,44
+Netherlands Eredivisie,Roda JC Kerkrade,2013-09-20 00:00:00,42,,44,Organised,38,47,44
+Netherlands Eredivisie,Roda JC Kerkrade,2014-09-19 00:00:00,43,46,44,Organised,42,39,37
+Scotland Premier League,St. Mirren,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,St. Mirren,2011-02-22 00:00:00,48,,48,Organised,48,43,44
+Scotland Premier League,St. Mirren,2012-02-22 00:00:00,60,,75,Organised,60,50,48
+Scotland Premier League,St. Mirren,2013-09-20 00:00:00,42,,43,Organised,60,53,49
+Scotland Premier League,St. Mirren,2014-09-19 00:00:00,58,50,70,Organised,61,50,49
+Scotland Premier League,St. Mirren,2015-09-10 00:00:00,38,53,33,Organised,53,60,58
+England Premier League,Reading,2010-02-22 00:00:00,70,,70,Organised,70,70,60
+England Premier League,Reading,2011-02-22 00:00:00,49,,36,Organised,55,49,31
+England Premier League,Reading,2012-02-22 00:00:00,49,,49,Organised,56,49,51
+England Premier League,Reading,2013-09-20 00:00:00,49,,61,Organised,37,39,44
+England Premier League,Reading,2014-09-19 00:00:00,44,26,72,Organised,37,58,52
+England Premier League,Reading,2015-09-10 00:00:00,44,36,64,Organised,42,51,47
+Netherlands Eredivisie,Heracles Almelo,2010-02-22 00:00:00,30,,45,Organised,59,30,30
+Netherlands Eredivisie,Heracles Almelo,2011-02-22 00:00:00,69,,45,Organised,45,36,66
+Netherlands Eredivisie,Heracles Almelo,2012-02-22 00:00:00,43,,27,Organised,60,33,43
+Netherlands Eredivisie,Heracles Almelo,2013-09-20 00:00:00,39,,32,Organised,66,47,43
+Netherlands Eredivisie,Heracles Almelo,2014-09-19 00:00:00,46,55,32,Organised,59,60,62
+Netherlands Eredivisie,Heracles Almelo,2015-09-10 00:00:00,50,36,61,Organised,59,60,62
+Germany 1. Bundesliga,Hamburger SV,2010-02-22 00:00:00,70,,60,Organised,70,70,45
+Germany 1. Bundesliga,Hamburger SV,2011-02-22 00:00:00,52,,29,Organised,54,60,55
+Germany 1. Bundesliga,Hamburger SV,2012-02-22 00:00:00,46,,40,Organised,39,55,47
+Germany 1. Bundesliga,Hamburger SV,2013-09-20 00:00:00,34,,38,Organised,48,45,35
+Germany 1. Bundesliga,Hamburger SV,2014-09-19 00:00:00,45,61,58,Organised,62,45,32
+Germany 1. Bundesliga,Hamburger SV,2015-09-10 00:00:00,42,56,52,Organised,47,44,41
+Germany 1. Bundesliga,Borussia Dortmund,2010-02-22 00:00:00,70,,45,Organised,66,54,70
+Germany 1. Bundesliga,Borussia Dortmund,2011-02-22 00:00:00,73,,43,Organised,64,59,67
+Germany 1. Bundesliga,Borussia Dortmund,2012-02-22 00:00:00,71,,45,Organised,70,58,69
+Germany 1. Bundesliga,Borussia Dortmund,2013-09-20 00:00:00,74,,45,Organised,76,60,70
+Germany 1. Bundesliga,Borussia Dortmund,2014-09-19 00:00:00,76,33,61,Organised,73,60,68
+Germany 1. Bundesliga,Borussia Dortmund,2015-09-10 00:00:00,71,37,40,Organised,49,65,71
+Germany 1. Bundesliga,Borussia Mönchengladbach,2010-02-22 00:00:00,65,,45,Organised,65,55,40
+Germany 1. Bundesliga,Borussia Mönchengladbach,2011-02-22 00:00:00,63,,46,Organised,61,49,58
+Germany 1. Bundesliga,Borussia Mönchengladbach,2012-02-22 00:00:00,57,,64,Organised,55,33,43
+Germany 1. Bundesliga,Borussia Mönchengladbach,2013-09-20 00:00:00,76,,40,Organised,30,33,53
+Germany 1. Bundesliga,Borussia Mönchengladbach,2014-09-19 00:00:00,31,53,32,Organised,49,43,50
+Germany 1. Bundesliga,Borussia Mönchengladbach,2015-09-10 00:00:00,31,53,32,Organised,49,41,48
+Spain LIGA BBVA,RC Deportivo de La Coruña,2010-02-22 00:00:00,30,,30,Organised,65,35,35
+Spain LIGA BBVA,RC Deportivo de La Coruña,2011-02-22 00:00:00,56,,42,Organised,61,38,44
+Spain LIGA BBVA,RC Deportivo de La Coruña,2012-02-22 00:00:00,56,,46,Organised,68,45,50
+Spain LIGA BBVA,RC Deportivo de La Coruña,2013-09-20 00:00:00,56,,46,Organised,68,45,50
+Spain LIGA BBVA,RC Deportivo de La Coruña,2014-09-19 00:00:00,56,55,46,Organised,68,45,50
+Spain LIGA BBVA,RC Deportivo de La Coruña,2015-09-10 00:00:00,53,55,47,Organised,55,45,50
+Switzerland Super League,Servette FC,2010-02-22 00:00:00,30,,55,Organised,60,55,60
+Switzerland Super League,Servette FC,2012-02-22 00:00:00,48,,51,Organised,45,49,45
+Switzerland Super League,Servette FC,2013-09-20 00:00:00,48,,51,Organised,45,49,45
+Germany 1. Bundesliga,Eintracht Braunschweig,2012-02-22 00:00:00,64,,54,Organised,62,54,42
+Germany 1. Bundesliga,Eintracht Braunschweig,2013-09-20 00:00:00,68,,54,Organised,67,57,47
+Germany 1. Bundesliga,Eintracht Braunschweig,2014-09-19 00:00:00,61,60,62,Organised,55,30,40
+Germany 1. Bundesliga,Eintracht Braunschweig,2015-09-10 00:00:00,66,44,54,Organised,51,57,47
+Portugal Liga ZON Sagres,FC Porto,2010-02-22 00:00:00,30,,30,Free Form,60,30,30
+Portugal Liga ZON Sagres,FC Porto,2011-02-22 00:00:00,50,,50,Organised,65,55,43
+Portugal Liga ZON Sagres,FC Porto,2012-02-22 00:00:00,52,,53,Organised,68,61,49
+Portugal Liga ZON Sagres,FC Porto,2013-09-20 00:00:00,52,,53,Organised,68,58,60
+Portugal Liga ZON Sagres,FC Porto,2014-09-19 00:00:00,52,50,53,Organised,68,58,60
+Portugal Liga ZON Sagres,FC Porto,2015-09-10 00:00:00,70,50,53,Organised,68,58,60
+Portugal Liga ZON Sagres,SL Benfica,2010-02-22 00:00:00,30,,30,Free Form,65,30,30
+Portugal Liga ZON Sagres,SL Benfica,2011-02-22 00:00:00,65,,35,Free Form,51,55,56
+Portugal Liga ZON Sagres,SL Benfica,2012-02-22 00:00:00,55,,48,Organised,54,61,51
+Portugal Liga ZON Sagres,SL Benfica,2013-09-20 00:00:00,65,,54,Organised,54,60,58
+Portugal Liga ZON Sagres,SL Benfica,2014-09-19 00:00:00,70,55,53,Organised,54,60,57
+Portugal Liga ZON Sagres,SL Benfica,2015-09-10 00:00:00,69,55,53,Organised,54,60,57
+Portugal Liga ZON Sagres,"União de Leiria, SAD",2010-02-22 00:00:00,50,,50,Organised,50,50,50
+Portugal Liga ZON Sagres,"União de Leiria, SAD",2011-02-22 00:00:00,50,,50,Organised,50,50,50
+Portugal Liga ZON Sagres,"União de Leiria, SAD",2012-02-22 00:00:00,36,,36,Organised,46,53,45
+Portugal Liga ZON Sagres,Sporting CP,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Portugal Liga ZON Sagres,Sporting CP,2011-02-22 00:00:00,50,,35,Organised,35,55,45
+Portugal Liga ZON Sagres,Sporting CP,2012-02-22 00:00:00,53,,56,Organised,69,52,49
+Portugal Liga ZON Sagres,Sporting CP,2013-09-20 00:00:00,53,,56,Organised,60,52,49
+Portugal Liga ZON Sagres,Sporting CP,2014-09-19 00:00:00,55,65,56,Organised,55,60,60
+Portugal Liga ZON Sagres,Sporting CP,2015-09-10 00:00:00,57,65,56,Organised,55,60,60
+Portugal Liga ZON Sagres,Gil Vicente FC,2012-02-22 00:00:00,46,,41,Organised,46,39,57
+Portugal Liga ZON Sagres,Gil Vicente FC,2013-09-20 00:00:00,46,,41,Organised,46,39,57
+Portugal Liga ZON Sagres,Gil Vicente FC,2014-09-19 00:00:00,65,67,41,Organised,46,39,40
+Portugal Liga ZON Sagres,Gil Vicente FC,2015-09-10 00:00:00,68,67,41,Organised,46,39,40
+Netherlands Eredivisie,NAC Breda,2010-02-22 00:00:00,30,,35,Organised,60,30,30
+Netherlands Eredivisie,NAC Breda,2011-02-22 00:00:00,33,,44,Free Form,60,42,47
+Netherlands Eredivisie,NAC Breda,2012-02-22 00:00:00,40,,48,Organised,42,43,48
+Netherlands Eredivisie,NAC Breda,2013-09-20 00:00:00,58,,53,Organised,46,43,48
+Netherlands Eredivisie,NAC Breda,2014-09-19 00:00:00,46,44,54,Organised,42,43,39
+Netherlands Eredivisie,NAC Breda,2015-09-10 00:00:00,45,49,59,Organised,54,36,39
+France Ligue 1,Olympique Lyonnais,2010-02-22 00:00:00,60,,40,Organised,70,70,60
+France Ligue 1,Olympique Lyonnais,2011-02-22 00:00:00,65,,50,Organised,80,45,45
+France Ligue 1,Olympique Lyonnais,2012-02-22 00:00:00,49,,52,Organised,67,46,47
+France Ligue 1,Olympique Lyonnais,2013-09-20 00:00:00,49,,52,Organised,67,46,47
+France Ligue 1,Olympique Lyonnais,2014-09-19 00:00:00,49,60,52,Organised,67,46,47
+France Ligue 1,Olympique Lyonnais,2015-09-10 00:00:00,49,60,52,Organised,67,46,47
+France Ligue 1,En Avant de Guingamp,2010-02-22 00:00:00,35,,30,Organised,70,30,65
+France Ligue 1,En Avant de Guingamp,2012-02-22 00:00:00,52,,48,Organised,48,33,43
+France Ligue 1,En Avant de Guingamp,2013-09-20 00:00:00,52,,48,Organised,59,46,43
+France Ligue 1,En Avant de Guingamp,2014-09-19 00:00:00,63,58,48,Organised,48,43,47
+France Ligue 1,En Avant de Guingamp,2015-09-10 00:00:00,63,37,58,Organised,36,49,47
+France Ligue 1,Le Havre AC,2010-02-22 00:00:00,55,,45,Organised,65,30,70
+France Ligue 1,Le Havre AC,2011-02-22 00:00:00,50,,50,Organised,65,45,45
+France Ligue 1,Le Havre AC,2012-02-22 00:00:00,46,,52,Organised,52,47,55
+France Ligue 1,Le Havre AC,2013-09-20 00:00:00,46,,52,Organised,52,47,55
+France Ligue 1,Le Havre AC,2014-09-19 00:00:00,46,56,52,Organised,52,47,55
+France Ligue 1,Le Havre AC,2015-09-10 00:00:00,46,56,52,Organised,52,47,55
+Germany 1. Bundesliga,1. FC Köln,2010-02-22 00:00:00,55,,65,Organised,60,45,55
+Germany 1. Bundesliga,1. FC Köln,2011-02-22 00:00:00,58,,71,Organised,50,40,40
+Germany 1. Bundesliga,1. FC Köln,2012-02-22 00:00:00,53,,53,Organised,57,43,55
+Germany 1. Bundesliga,1. FC Köln,2013-09-20 00:00:00,60,,56,Organised,57,43,55
+Germany 1. Bundesliga,1. FC Köln,2014-09-19 00:00:00,59,53,57,Organised,59,57,46
+Germany 1. Bundesliga,1. FC Köln,2015-09-10 00:00:00,59,47,65,Organised,71,42,56
+Germany 1. Bundesliga,VfL Wolfsburg,2010-02-22 00:00:00,65,,45,Organised,70,45,60
+Germany 1. Bundesliga,VfL Wolfsburg,2011-02-22 00:00:00,65,,45,Organised,51,58,47
+Germany 1. Bundesliga,VfL Wolfsburg,2012-02-22 00:00:00,54,,59,Organised,48,38,40
+Germany 1. Bundesliga,VfL Wolfsburg,2013-09-20 00:00:00,58,,57,Organised,70,64,42
+Germany 1. Bundesliga,VfL Wolfsburg,2014-09-19 00:00:00,58,67,45,Organised,54,59,48
+Germany 1. Bundesliga,VfL Wolfsburg,2015-09-10 00:00:00,68,45,57,Organised,50,66,46
+Germany 1. Bundesliga,SV Werder Bremen,2010-02-22 00:00:00,70,,40,Organised,70,70,65
+Germany 1. Bundesliga,SV Werder Bremen,2011-02-22 00:00:00,64,,40,Organised,64,64,48
+Germany 1. Bundesliga,SV Werder Bremen,2012-02-22 00:00:00,54,,40,Organised,48,49,50
+Germany 1. Bundesliga,SV Werder Bremen,2013-09-20 00:00:00,68,,33,Organised,78,60,50
+Germany 1. Bundesliga,SV Werder Bremen,2014-09-19 00:00:00,40,55,47,Organised,51,40,50
+Germany 1. Bundesliga,SV Werder Bremen,2015-09-10 00:00:00,56,55,63,Organised,58,63,47
+Spain LIGA BBVA,Racing Santander,2010-02-22 00:00:00,45,,55,Organised,65,45,55
+Spain LIGA BBVA,Racing Santander,2011-02-22 00:00:00,53,,56,Organised,39,47,37
+Spain LIGA BBVA,Racing Santander,2012-02-22 00:00:00,43,,44,Organised,50,50,50
+Spain LIGA BBVA,Racing Santander,2013-09-20 00:00:00,47,,44,Organised,50,50,50
+Spain LIGA BBVA,Racing Santander,2015-09-10 00:00:00,48,52,47,Organised,53,51,47
+Italy Serie A,Reggio Calabria,2010-02-22 00:00:00,55,,30,Organised,70,40,50
+Italy Serie A,Reggio Calabria,2011-02-22 00:00:00,55,,30,Organised,49,40,50
+Italy Serie A,Reggio Calabria,2012-02-22 00:00:00,50,,50,Organised,50,35,45
+Italy Serie A,Reggio Calabria,2013-09-20 00:00:00,52,,56,Organised,55,38,48
+Italy Serie A,Reggio Calabria,2014-09-19 00:00:00,52,55,56,Organised,53,38,48
+France Ligue 1,FC Lorient,2010-02-22 00:00:00,45,,70,Organised,40,70,60
+France Ligue 1,FC Lorient,2011-02-22 00:00:00,35,,35,Organised,50,55,35
+France Ligue 1,FC Lorient,2012-02-22 00:00:00,60,,42,Organised,64,43,47
+France Ligue 1,FC Lorient,2013-09-20 00:00:00,60,,42,Organised,64,43,47
+France Ligue 1,FC Lorient,2014-09-19 00:00:00,60,56,42,Organised,64,43,47
+France Ligue 1,FC Lorient,2015-09-10 00:00:00,57,42,50,Organised,46,51,56
+Italy Serie A,Roma,2010-02-22 00:00:00,70,,30,Free Form,70,55,30
+Italy Serie A,Roma,2011-02-22 00:00:00,64,,30,Organised,65,46,47
+Italy Serie A,Roma,2012-02-22 00:00:00,60,,40,Free Form,50,35,45
+Italy Serie A,Roma,2013-09-20 00:00:00,53,,55,Organised,56,49,47
+Italy Serie A,Roma,2014-09-19 00:00:00,67,48,38,Organised,56,36,57
+Italy Serie A,Roma,2015-09-10 00:00:00,68,27,47,Organised,66,36,57
+France Ligue 1,Le Mans FC,2010-02-22 00:00:00,70,,45,Organised,65,70,60
+France Ligue 1,Le Mans FC,2011-02-22 00:00:00,65,,50,Organised,65,60,55
+France Ligue 1,Le Mans FC,2012-02-22 00:00:00,58,,47,Organised,50,47,44
+France Ligue 1,Le Mans FC,2013-09-20 00:00:00,58,,47,Organised,50,47,44
+England Premier League,Bournemouth,2010-02-22 00:00:00,70,,70,Organised,60,70,70
+England Premier League,Bournemouth,2011-02-22 00:00:00,51,,66,Organised,47,27,46
+England Premier League,Bournemouth,2012-02-22 00:00:00,46,,46,Organised,52,48,50
+England Premier League,Bournemouth,2013-09-20 00:00:00,39,,38,Organised,52,48,50
+England Premier League,Bournemouth,2014-09-19 00:00:00,47,44,48,Organised,41,48,50
+England Premier League,Bournemouth,2015-09-10 00:00:00,47,36,47,Organised,47,48,50
+Netherlands Eredivisie,FC Groningen,2010-02-22 00:00:00,41,,32,Organised,69,30,30
+Netherlands Eredivisie,FC Groningen,2011-02-22 00:00:00,51,,39,Organised,62,43,44
+Netherlands Eredivisie,FC Groningen,2012-02-22 00:00:00,44,,41,Organised,42,49,47
+Netherlands Eredivisie,FC Groningen,2013-09-20 00:00:00,44,,44,Organised,42,49,47
+Netherlands Eredivisie,FC Groningen,2014-09-19 00:00:00,48,42,38,Organised,45,49,47
+Netherlands Eredivisie,FC Groningen,2015-09-10 00:00:00,55,32,55,Organised,54,49,47
+Poland Ekstraklasa,Legia Warszawa,2010-02-22 00:00:00,30,,35,Organised,70,65,70
+Poland Ekstraklasa,Legia Warszawa,2011-02-22 00:00:00,67,,35,Organised,53,59,48
+Poland Ekstraklasa,Legia Warszawa,2012-02-22 00:00:00,69,,55,Organised,53,59,49
+Poland Ekstraklasa,Legia Warszawa,2013-09-20 00:00:00,69,,55,Organised,53,59,49
+Poland Ekstraklasa,Legia Warszawa,2014-09-19 00:00:00,54,51,36,Free Form,64,47,46
+Poland Ekstraklasa,Legia Warszawa,2015-09-10 00:00:00,54,47,36,Organised,64,50,60
+England Premier League,Everton,2010-02-22 00:00:00,60,,65,Organised,45,40,70
+England Premier League,Everton,2011-02-22 00:00:00,60,,50,Organised,55,55,65
+England Premier League,Everton,2012-02-22 00:00:00,56,,56,Organised,56,50,50
+England Premier League,Everton,2013-09-20 00:00:00,58,,62,Organised,32,41,44
+England Premier League,Everton,2014-09-19 00:00:00,61,34,42,Organised,48,52,58
+England Premier League,Everton,2015-09-10 00:00:00,43,45,40,Organised,63,52,58
+England Premier League,Hull City,2010-02-22 00:00:00,65,,60,Organised,55,70,70
+England Premier League,Hull City,2011-02-22 00:00:00,49,,52,Organised,37,46,46
+England Premier League,Hull City,2012-02-22 00:00:00,61,,48,Organised,54,38,42
+England Premier League,Hull City,2013-09-20 00:00:00,63,,48,Organised,54,34,37
+England Premier League,Hull City,2014-09-19 00:00:00,56,35,51,Organised,48,38,37
+England Premier League,Hull City,2015-09-10 00:00:00,56,40,55,Organised,56,38,37
+Spain LIGA BBVA,RCD Mallorca,2010-02-22 00:00:00,40,,40,Organised,50,45,40
+Spain LIGA BBVA,RCD Mallorca,2011-02-22 00:00:00,53,,52,Organised,53,47,48
+Spain LIGA BBVA,RCD Mallorca,2012-02-22 00:00:00,58,,57,Organised,53,59,41
+Spain LIGA BBVA,RCD Mallorca,2013-09-20 00:00:00,62,,57,Organised,53,59,41
+Spain LIGA BBVA,RCD Mallorca,2014-09-19 00:00:00,62,53,57,Organised,53,59,41
+Spain LIGA BBVA,RCD Mallorca,2015-09-10 00:00:00,62,53,57,Organised,53,59,41
+England Premier League,West Bromwich Albion,2010-02-22 00:00:00,65,,40,Organised,55,70,70
+England Premier League,West Bromwich Albion,2011-02-22 00:00:00,60,,65,Organised,45,35,55
+England Premier League,West Bromwich Albion,2012-02-22 00:00:00,48,,48,Organised,54,38,38
+England Premier League,West Bromwich Albion,2013-09-20 00:00:00,55,,54,Organised,57,33,31
+England Premier League,West Bromwich Albion,2014-09-19 00:00:00,55,34,51,Organised,57,41,40
+England Premier League,West Bromwich Albion,2015-09-10 00:00:00,62,32,51,Organised,60,41,40
+England Premier League,Birmingham City,2010-02-22 00:00:00,70,,70,Organised,70,70,70
+England Premier League,Birmingham City,2011-02-22 00:00:00,45,,60,Organised,40,30,60
+England Premier League,Birmingham City,2012-02-22 00:00:00,51,,55,Organised,56,42,48
+England Premier League,Birmingham City,2013-09-20 00:00:00,56,,57,Organised,41,42,44
+England Premier League,Birmingham City,2014-09-19 00:00:00,56,39,79,Organised,56,42,48
+England Premier League,Birmingham City,2015-09-10 00:00:00,56,32,75,Organised,64,42,47
+England Premier League,Blackburn Rovers,2010-02-22 00:00:00,55,,70,Organised,55,45,70
+England Premier League,Blackburn Rovers,2011-02-22 00:00:00,55,,65,Organised,35,45,60
+England Premier League,Blackburn Rovers,2012-02-22 00:00:00,57,,57,Organised,40,42,50
+England Premier League,Blackburn Rovers,2013-09-20 00:00:00,44,,64,Organised,40,42,50
+England Premier League,Blackburn Rovers,2014-09-19 00:00:00,44,31,62,Organised,40,50,50
+England Premier League,Blackburn Rovers,2015-09-10 00:00:00,60,60,65,Organised,42,50,50
+England Premier League,West Ham United,2010-02-22 00:00:00,58,,30,Organised,50,30,70
+England Premier League,West Ham United,2011-02-22 00:00:00,35,,35,Organised,45,45,45
+England Premier League,West Ham United,2012-02-22 00:00:00,63,,64,Organised,55,30,34
+England Premier League,West Ham United,2013-09-20 00:00:00,72,,73,Organised,32,30,37
+England Premier League,West Ham United,2014-09-19 00:00:00,72,39,73,Organised,32,30,34
+England Premier League,West Ham United,2015-09-10 00:00:00,77,37,57,Organised,29,30,37
+England Premier League,Liverpool,2010-02-22 00:00:00,50,,35,Organised,70,40,60
+England Premier League,Liverpool,2011-02-22 00:00:00,60,,50,Organised,60,55,55
+England Premier League,Liverpool,2012-02-22 00:00:00,60,,60,Organised,53,50,48
+England Premier League,Liverpool,2013-09-20 00:00:00,39,,44,Organised,54,59,52
+England Premier League,Liverpool,2014-09-19 00:00:00,71,48,32,Organised,61,51,48
+England Premier League,Liverpool,2015-09-10 00:00:00,66,60,45,Organised,46,51,52
+Scotland Premier League,Ross County FC,2013-09-20 00:00:00,35,,62,Organised,50,40,56
+Scotland Premier League,Ross County FC,2014-09-19 00:00:00,34,50,34,Organised,38,39,51
+Scotland Premier League,Ross County FC,2015-09-10 00:00:00,45,48,60,Organised,58,36,53
+Netherlands Eredivisie,PSV,2010-02-22 00:00:00,30,,30,Organised,70,30,30
+Netherlands Eredivisie,PSV,2011-02-22 00:00:00,63,,30,Organised,68,57,37
+Netherlands Eredivisie,PSV,2012-02-22 00:00:00,33,,42,Organised,48,43,30
+Netherlands Eredivisie,PSV,2013-09-20 00:00:00,54,,45,Organised,55,43,50
+Netherlands Eredivisie,PSV,2014-09-19 00:00:00,67,35,40,Organised,55,50,62
+Netherlands Eredivisie,PSV,2015-09-10 00:00:00,67,43,43,Organised,28,40,40
+France Ligue 1,LOSC Lille,2010-02-22 00:00:00,70,,60,Organised,55,55,70
+France Ligue 1,LOSC Lille,2011-02-22 00:00:00,65,,65,Organised,50,55,55
+France Ligue 1,LOSC Lille,2012-02-22 00:00:00,34,,23,Organised,49,58,56
+France Ligue 1,LOSC Lille,2013-09-20 00:00:00,34,,42,Organised,49,47,42
+France Ligue 1,LOSC Lille,2014-09-19 00:00:00,45,65,42,Organised,49,59,42
+France Ligue 1,LOSC Lille,2015-09-10 00:00:00,45,36,43,Organised,64,59,42
+Italy Serie A,Inter,2010-02-22 00:00:00,55,,55,Free Form,70,50,60
+Italy Serie A,Inter,2011-02-22 00:00:00,55,,50,Free Form,65,50,60
+Italy Serie A,Inter,2012-02-22 00:00:00,45,,50,Organised,65,35,55
+Italy Serie A,Inter,2013-09-20 00:00:00,67,,67,Organised,66,36,57
+Italy Serie A,Inter,2014-09-19 00:00:00,67,48,67,Organised,66,23,57
+Italy Serie A,Inter,2015-09-10 00:00:00,58,69,54,Organised,53,47,49
+Belgium Jupiler League,RSC Anderlecht,2010-02-22 00:00:00,50,,35,Organised,60,70,50
+Belgium Jupiler League,RSC Anderlecht,2011-02-22 00:00:00,50,,52,Free Form,60,70,50
+Belgium Jupiler League,RSC Anderlecht,2012-02-22 00:00:00,52,,41,Organised,47,45,43
+Belgium Jupiler League,RSC Anderlecht,2013-09-20 00:00:00,52,,41,Organised,47,60,43
+Belgium Jupiler League,RSC Anderlecht,2014-09-19 00:00:00,52,46,51,Organised,47,60,50
+Belgium Jupiler League,RSC Anderlecht,2015-09-10 00:00:00,52,46,51,Organised,47,53,50
+Spain LIGA BBVA,FC Barcelona,2010-02-22 00:00:00,42,,30,Free Form,70,70,30
+Spain LIGA BBVA,FC Barcelona,2011-02-22 00:00:00,43,,34,Free Form,68,67,43
+Spain LIGA BBVA,FC Barcelona,2012-02-22 00:00:00,24,,25,Free Form,54,66,63
+Spain LIGA BBVA,FC Barcelona,2013-09-20 00:00:00,35,,32,Free Form,35,61,63
+Spain LIGA BBVA,FC Barcelona,2014-09-19 00:00:00,35,35,32,Free Form,35,61,63
+Spain LIGA BBVA,FC Barcelona,2015-09-10 00:00:00,36,35,51,Free Form,56,61,65
+Spain LIGA BBVA,Real Madrid CF,2010-02-22 00:00:00,55,,30,Free Form,70,65,40
+Spain LIGA BBVA,Real Madrid CF,2011-02-22 00:00:00,54,,39,Free Form,67,68,55
+Spain LIGA BBVA,Real Madrid CF,2012-02-22 00:00:00,45,,35,Free Form,73,49,60
+Spain LIGA BBVA,Real Madrid CF,2013-09-20 00:00:00,50,,41,Organised,72,39,49
+Spain LIGA BBVA,Real Madrid CF,2014-09-19 00:00:00,50,54,41,Organised,69,39,49
+Spain LIGA BBVA,Real Madrid CF,2015-09-10 00:00:00,50,57,46,Free Form,63,52,60
+Netherlands Eredivisie,Sparta Rotterdam,2010-02-22 00:00:00,35,,40,Organised,65,30,30
+Portugal Liga ZON Sagres,Boavista FC,2015-09-10 00:00:00,47,56,50,Organised,53,32,62
+Netherlands Eredivisie,FC Twente,2010-02-22 00:00:00,30,,30,Organised,65,30,30
+Netherlands Eredivisie,FC Twente,2011-02-22 00:00:00,55,,55,Free Form,47,61,59
+Netherlands Eredivisie,FC Twente,2012-02-22 00:00:00,25,,28,Organised,37,62,68
+Netherlands Eredivisie,FC Twente,2013-09-20 00:00:00,35,,38,Organised,41,34,44
+Netherlands Eredivisie,FC Twente,2014-09-19 00:00:00,38,39,34,Organised,37,44,41
+Netherlands Eredivisie,FC Twente,2015-09-10 00:00:00,48,40,43,Organised,39,44,41
+Spain LIGA BBVA,Real Betis Balompié,2010-02-22 00:00:00,45,,45,Organised,55,50,45
+Spain LIGA BBVA,Real Betis Balompié,2011-02-22 00:00:00,37,,51,Organised,72,42,40
+Spain LIGA BBVA,Real Betis Balompié,2012-02-22 00:00:00,55,,37,Organised,53,58,49
+Spain LIGA BBVA,Real Betis Balompié,2013-09-20 00:00:00,59,,37,Organised,53,58,49
+Spain LIGA BBVA,Real Betis Balompié,2014-09-19 00:00:00,59,49,37,Organised,53,58,49
+Spain LIGA BBVA,Real Betis Balompié,2015-09-10 00:00:00,59,49,37,Organised,53,58,49
+England Premier League,Wolverhampton Wanderers,2010-02-22 00:00:00,70,,70,Organised,70,70,70
+England Premier League,Wolverhampton Wanderers,2011-02-22 00:00:00,55,,55,Organised,45,45,45
+England Premier League,Wolverhampton Wanderers,2012-02-22 00:00:00,67,,68,Organised,56,48,60
+England Premier League,Wolverhampton Wanderers,2013-09-20 00:00:00,63,,61,Organised,56,42,48
+England Premier League,Wolverhampton Wanderers,2014-09-19 00:00:00,47,28,58,Organised,56,47,48
+England Premier League,Wolverhampton Wanderers,2015-09-10 00:00:00,46,36,54,Organised,48,47,48
+Italy Serie A,Udinese,2010-02-22 00:00:00,64,,35,Organised,70,35,30
+Italy Serie A,Udinese,2011-02-22 00:00:00,70,,49,Organised,50,44,45
+Italy Serie A,Udinese,2012-02-22 00:00:00,75,,45,Organised,50,45,55
+Italy Serie A,Udinese,2013-09-20 00:00:00,78,,63,Free Form,52,40,63
+Italy Serie A,Udinese,2014-09-19 00:00:00,71,71,63,Organised,52,40,46
+Italy Serie A,Udinese,2015-09-10 00:00:00,68,54,63,Organised,52,40,57
+Scotland Premier League,Kilmarnock,2010-02-22 00:00:00,70,,70,Organised,65,60,70
+Scotland Premier League,Kilmarnock,2011-02-22 00:00:00,36,,36,Organised,51,48,43
+Scotland Premier League,Kilmarnock,2012-02-22 00:00:00,56,,61,Organised,46,43,43
+Scotland Premier League,Kilmarnock,2013-09-20 00:00:00,53,,54,Organised,49,47,49
+Scotland Premier League,Kilmarnock,2014-09-19 00:00:00,56,50,61,Organised,46,44,44
+Scotland Premier League,Kilmarnock,2015-09-10 00:00:00,50,48,60,Organised,47,46,46
+Scotland Premier League,Falkirk,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Netherlands Eredivisie,Ajax,2010-02-22 00:00:00,30,,30,Free Form,70,30,30
+Netherlands Eredivisie,Ajax,2011-02-22 00:00:00,40,,38,Free Form,67,65,57
+Netherlands Eredivisie,Ajax,2012-02-22 00:00:00,31,,33,Organised,46,68,65
+Netherlands Eredivisie,Ajax,2013-09-20 00:00:00,35,,33,Free Form,46,68,65
+Netherlands Eredivisie,Ajax,2014-09-19 00:00:00,40,40,30,Organised,39,64,53
+Netherlands Eredivisie,Ajax,2015-09-10 00:00:00,35,43,39,Organised,30,64,53
+France Ligue 1,Olympique de Marseille,2010-02-22 00:00:00,55,,45,Organised,70,65,70
+France Ligue 1,Olympique de Marseille,2011-02-22 00:00:00,65,,35,Organised,80,55,55
+France Ligue 1,Olympique de Marseille,2012-02-22 00:00:00,48,,50,Organised,48,44,48
+France Ligue 1,Olympique de Marseille,2013-09-20 00:00:00,48,,50,Organised,64,44,48
+France Ligue 1,Olympique de Marseille,2014-09-19 00:00:00,51,62,50,Organised,68,48,48
+France Ligue 1,Olympique de Marseille,2015-09-10 00:00:00,51,77,41,Organised,31,48,48
+France Ligue 1,RC Lens,2010-02-22 00:00:00,30,,30,Organised,70,70,60
+France Ligue 1,RC Lens,2011-02-22 00:00:00,65,,50,Organised,65,45,55
+France Ligue 1,RC Lens,2012-02-22 00:00:00,64,,49,Organised,34,46,44
+France Ligue 1,RC Lens,2013-09-20 00:00:00,64,,49,Organised,37,42,44
+France Ligue 1,RC Lens,2014-09-19 00:00:00,64,52,49,Organised,34,46,44
+France Ligue 1,RC Lens,2015-09-10 00:00:00,64,44,50,Organised,46,46,44
+England Premier League,Tottenham Hotspur,2010-02-22 00:00:00,70,,50,Organised,50,50,50
+England Premier League,Tottenham Hotspur,2011-02-22 00:00:00,60,,55,Free Form,70,30,40
+England Premier League,Tottenham Hotspur,2012-02-22 00:00:00,44,,47,Organised,61,43,44
+England Premier League,Tottenham Hotspur,2013-09-20 00:00:00,42,,46,Organised,68,63,61
+England Premier League,Tottenham Hotspur,2014-09-19 00:00:00,41,35,38,Organised,62,58,51
+England Premier League,Tottenham Hotspur,2015-09-10 00:00:00,47,46,40,Organised,63,63,54
+France Ligue 1,AJ Auxerre,2010-02-22 00:00:00,30,,70,Organised,35,30,55
+France Ligue 1,AJ Auxerre,2011-02-22 00:00:00,35,,65,Organised,50,35,45
+France Ligue 1,AJ Auxerre,2012-02-22 00:00:00,64,,49,Organised,50,34,45
+France Ligue 1,AJ Auxerre,2013-09-20 00:00:00,64,,49,Organised,50,34,45
+France Ligue 1,AJ Auxerre,2014-09-19 00:00:00,64,55,49,Organised,50,34,45
+France Ligue 1,AJ Auxerre,2015-09-10 00:00:00,64,55,49,Organised,50,34,45
+Spain LIGA BBVA,Levante UD,2010-02-22 00:00:00,30,,30,Organised,70,30,35
+Spain LIGA BBVA,Levante UD,2011-02-22 00:00:00,68,,56,Organised,58,37,47
+Spain LIGA BBVA,Levante UD,2012-02-22 00:00:00,53,,63,Organised,52,47,52
+Spain LIGA BBVA,Levante UD,2013-09-20 00:00:00,57,,63,Organised,52,47,52
+Spain LIGA BBVA,Levante UD,2014-09-19 00:00:00,57,51,63,Organised,52,47,52
+Spain LIGA BBVA,Levante UD,2015-09-10 00:00:00,62,36,65,Organised,65,36,33
+France Ligue 1,AC Ajaccio,2010-02-22 00:00:00,60,,40,Organised,55,30,70
+France Ligue 1,AC Ajaccio,2011-02-22 00:00:00,65,,45,Organised,50,45,45
+France Ligue 1,AC Ajaccio,2012-02-22 00:00:00,59,,52,Organised,52,38,47
+France Ligue 1,AC Ajaccio,2013-09-20 00:00:00,59,,52,Organised,52,38,47
+France Ligue 1,AC Ajaccio,2014-09-19 00:00:00,59,57,52,Organised,52,38,47
+France Ligue 1,AC Ajaccio,2015-09-10 00:00:00,59,57,52,Organised,52,38,47
+Belgium Jupiler League,KV Oostende,2014-09-19 00:00:00,52,49,54,Organised,53,42,47
+Belgium Jupiler League,KV Oostende,2015-09-10 00:00:00,52,49,54,Organised,53,42,47
+Belgium Jupiler League,KV Kortrijk,2010-02-22 00:00:00,50,,60,Organised,50,60,60
+Belgium Jupiler League,KV Kortrijk,2011-02-22 00:00:00,38,,65,Free Form,52,34,57
+Belgium Jupiler League,KV Kortrijk,2012-02-22 00:00:00,31,,47,Organised,50,46,45
+Belgium Jupiler League,KV Kortrijk,2013-09-20 00:00:00,42,,40,Organised,30,46,45
+Belgium Jupiler League,KV Kortrijk,2014-09-19 00:00:00,42,40,47,Organised,30,46,45
+Belgium Jupiler League,KV Kortrijk,2015-09-10 00:00:00,42,40,47,Organised,30,46,45
+Poland Ekstraklasa,GKS Bełchatów,2010-02-22 00:00:00,30,,50,Organised,70,65,70
+Poland Ekstraklasa,GKS Bełchatów,2011-02-22 00:00:00,47,,27,Organised,54,48,60
+Poland Ekstraklasa,GKS Bełchatów,2012-02-22 00:00:00,52,,67,Organised,50,47,45
+Poland Ekstraklasa,GKS Bełchatów,2013-09-20 00:00:00,52,,43,Organised,50,47,45
+Poland Ekstraklasa,GKS Bełchatów,2015-09-10 00:00:00,52,48,43,Organised,50,47,45
+Italy Serie A,Milan,2010-02-22 00:00:00,45,,30,Free Form,70,30,35
+Italy Serie A,Milan,2011-02-22 00:00:00,65,,50,Organised,50,50,50
+Italy Serie A,Milan,2012-02-22 00:00:00,45,,50,Organised,50,45,45
+Italy Serie A,Milan,2013-09-20 00:00:00,48,,54,Organised,64,48,49
+Italy Serie A,Milan,2014-09-19 00:00:00,48,70,52,Organised,75,58,57
+Italy Serie A,Milan,2015-09-10 00:00:00,48,70,52,Organised,69,58,57
+Spain LIGA BBVA,Real Sociedad,2010-02-22 00:00:00,40,,30,Free Form,70,45,30
+Spain LIGA BBVA,Real Sociedad,2011-02-22 00:00:00,54,,43,Organised,60,49,49
+Spain LIGA BBVA,Real Sociedad,2012-02-22 00:00:00,24,,36,Organised,59,48,53
+Spain LIGA BBVA,Real Sociedad,2013-09-20 00:00:00,28,,36,Organised,59,48,53
+Spain LIGA BBVA,Real Sociedad,2014-09-19 00:00:00,35,52,36,Organised,59,48,53
+Spain LIGA BBVA,Real Sociedad,2015-09-10 00:00:00,60,52,50,Organised,52,49,53
+England Premier League,Bolton Wanderers,2010-02-22 00:00:00,55,,70,Organised,45,35,70
+England Premier League,Bolton Wanderers,2011-02-22 00:00:00,45,,70,Organised,50,40,55
+England Premier League,Bolton Wanderers,2012-02-22 00:00:00,57,,56,Organised,54,48,48
+England Premier League,Bolton Wanderers,2013-09-20 00:00:00,57,,53,Organised,54,39,48
+England Premier League,Bolton Wanderers,2014-09-19 00:00:00,57,37,73,Organised,56,39,48
+England Premier League,Bolton Wanderers,2015-09-10 00:00:00,57,34,61,Organised,38,39,48
+Spain LIGA BBVA,RCD Espanyol,2010-02-22 00:00:00,55,,40,Organised,70,70,50
+Spain LIGA BBVA,RCD Espanyol,2011-02-22 00:00:00,68,,55,Organised,54,51,58
+Spain LIGA BBVA,RCD Espanyol,2012-02-22 00:00:00,46,,44,Organised,40,37,40
+Spain LIGA BBVA,RCD Espanyol,2013-09-20 00:00:00,50,,44,Organised,40,37,40
+Spain LIGA BBVA,RCD Espanyol,2014-09-19 00:00:00,50,52,44,Organised,40,37,40
+Spain LIGA BBVA,RCD Espanyol,2015-09-10 00:00:00,50,52,44,Organised,40,37,40
+Italy Serie A,Siena,2010-02-22 00:00:00,35,,30,Organised,55,40,65
+Italy Serie A,Siena,2011-02-22 00:00:00,50,,50,Organised,55,40,45
+Italy Serie A,Siena,2012-02-22 00:00:00,45,,50,Organised,50,45,45
+Italy Serie A,Siena,2013-09-20 00:00:00,47,,48,Organised,52,37,49
+Italy Serie A,Siena,2014-09-19 00:00:00,47,49,48,Organised,52,44,49
+France Ligue 1,FC Metz,2010-02-22 00:00:00,50,,30,Organised,65,30,50
+France Ligue 1,FC Metz,2011-02-22 00:00:00,65,,65,Organised,50,35,35
+France Ligue 1,FC Metz,2012-02-22 00:00:00,50,,49,Organised,53,46,47
+France Ligue 1,FC Metz,2014-09-19 00:00:00,55,42,49,Organised,53,46,54
+France Ligue 1,FC Metz,2015-09-10 00:00:00,55,48,49,Organised,53,39,46
+England Premier League,Middlesbrough,2010-02-22 00:00:00,70,,70,Organised,50,30,70
+England Premier League,Middlesbrough,2011-02-22 00:00:00,66,,51,Organised,48,54,44
+England Premier League,Middlesbrough,2012-02-22 00:00:00,60,,72,Organised,72,38,42
+England Premier League,Middlesbrough,2013-09-20 00:00:00,60,,40,Organised,57,38,42
+England Premier League,Middlesbrough,2014-09-19 00:00:00,60,28,56,Organised,72,38,42
+England Premier League,Middlesbrough,2015-09-10 00:00:00,60,32,46,Organised,37,38,42
+Scotland Premier League,Rangers,2010-02-22 00:00:00,65,,50,Organised,70,60,70
+Scotland Premier League,Rangers,2011-02-22 00:00:00,51,,33,Organised,79,46,47
+Scotland Premier League,Rangers,2012-02-22 00:00:00,45,,45,Organised,60,48,48
+Scotland Premier League,Rangers,2013-09-20 00:00:00,55,,45,Organised,60,48,48
+Scotland Premier League,Rangers,2014-09-19 00:00:00,45,49,45,Organised,60,48,48
+Scotland Premier League,Rangers,2015-09-10 00:00:00,45,53,55,Organised,53,48,48
+Italy Serie A,Lazio,2010-02-22 00:00:00,60,,50,Organised,70,55,50
+Italy Serie A,Lazio,2011-02-22 00:00:00,60,,35,Free Form,51,45,50
+Italy Serie A,Lazio,2012-02-22 00:00:00,45,,50,Organised,50,35,45
+Italy Serie A,Lazio,2013-09-20 00:00:00,51,,54,Organised,69,59,53
+Italy Serie A,Lazio,2014-09-19 00:00:00,49,69,54,Organised,69,59,53
+Italy Serie A,Lazio,2015-09-10 00:00:00,68,65,55,Organised,72,59,66
+Italy Serie A,Palermo,2010-02-22 00:00:00,63,,50,Organised,70,45,40
+Italy Serie A,Palermo,2011-02-22 00:00:00,65,,35,Free Form,50,35,45
+Italy Serie A,Palermo,2012-02-22 00:00:00,60,,40,Organised,65,45,45
+Italy Serie A,Palermo,2013-09-20 00:00:00,66,,37,Free Form,63,43,42
+Italy Serie A,Palermo,2014-09-19 00:00:00,66,55,37,Organised,63,43,42
+Italy Serie A,Palermo,2015-09-10 00:00:00,66,66,36,Organised,64,44,58
+Italy Serie A,Livorno,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Italy Serie A,Livorno,2011-02-22 00:00:00,65,,50,Organised,65,45,60
+Italy Serie A,Livorno,2012-02-22 00:00:00,50,,50,Organised,50,35,45
+Italy Serie A,Livorno,2013-09-20 00:00:00,58,,55,Organised,63,58,49
+Italy Serie A,Livorno,2014-09-19 00:00:00,58,58,67,Organised,77,29,57
+Italy Serie A,Livorno,2015-09-10 00:00:00,58,58,67,Organised,69,31,57
+Italy Serie A,Fiorentina,2010-02-22 00:00:00,67,,30,Free Form,60,45,30
+Italy Serie A,Fiorentina,2011-02-22 00:00:00,49,,50,Organised,60,45,45
+Italy Serie A,Fiorentina,2012-02-22 00:00:00,45,,50,Organised,50,45,45
+Italy Serie A,Fiorentina,2013-09-20 00:00:00,53,,51,Organised,53,47,47
+Italy Serie A,Fiorentina,2014-09-19 00:00:00,34,54,33,Organised,53,58,59
+Italy Serie A,Fiorentina,2015-09-10 00:00:00,34,54,33,Organised,53,58,59
+Italy Serie A,Empoli,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Italy Serie A,Empoli,2011-02-22 00:00:00,50,,35,Organised,55,45,45
+Italy Serie A,Empoli,2012-02-22 00:00:00,50,,50,Organised,50,35,45
+Italy Serie A,Empoli,2013-09-20 00:00:00,51,,54,Organised,62,39,50
+Italy Serie A,Empoli,2014-09-19 00:00:00,63,43,39,Organised,51,53,57
+Italy Serie A,Empoli,2015-09-10 00:00:00,66,43,36,Organised,63,46,66
+Italy Serie A,Chievo Verona,2010-02-22 00:00:00,45,,30,Organised,65,30,70
+Italy Serie A,Chievo Verona,2011-02-22 00:00:00,45,,50,Organised,35,36,70
+Italy Serie A,Chievo Verona,2012-02-22 00:00:00,60,,65,Organised,65,25,45
+Italy Serie A,Chievo Verona,2013-09-20 00:00:00,66,,67,Organised,66,26,59
+Italy Serie A,Chievo Verona,2014-09-19 00:00:00,66,54,67,Organised,52,46,59
+Italy Serie A,Chievo Verona,2015-09-10 00:00:00,66,54,67,Organised,52,46,59
+Italy Serie A,Catania,2010-02-22 00:00:00,35,,30,Organised,60,35,55
+Italy Serie A,Catania,2011-02-22 00:00:00,65,,35,Free Form,63,35,55
+Italy Serie A,Catania,2012-02-22 00:00:00,40,,50,Organised,50,25,50
+Italy Serie A,Catania,2013-09-20 00:00:00,67,,37,Free Form,52,37,57
+Italy Serie A,Catania,2014-09-19 00:00:00,75,52,48,Organised,36,28,67
+Italy Serie A,Catania,2015-09-10 00:00:00,70,52,48,Organised,36,31,64
+Italy Serie A,Cagliari,2010-02-22 00:00:00,40,,30,Organised,55,40,55
+Italy Serie A,Cagliari,2011-02-22 00:00:00,65,,50,Organised,50,45,45
+Italy Serie A,Cagliari,2012-02-22 00:00:00,40,,50,Organised,50,45,45
+Italy Serie A,Cagliari,2013-09-20 00:00:00,63,,36,Organised,51,46,56
+Italy Serie A,Cagliari,2014-09-19 00:00:00,63,51,53,Organised,68,37,56
+Italy Serie A,Cagliari,2015-09-10 00:00:00,67,32,35,Organised,69,65,65
+England Premier League,Wigan Athletic,2010-02-22 00:00:00,70,,70,Organised,50,35,70
+England Premier League,Wigan Athletic,2011-02-22 00:00:00,35,,50,Organised,50,45,55
+England Premier League,Wigan Athletic,2012-02-22 00:00:00,38,,38,Organised,42,40,42
+England Premier League,Wigan Athletic,2013-09-20 00:00:00,38,,39,Organised,34,56,52
+England Premier League,Wigan Athletic,2014-09-19 00:00:00,51,36,51,Organised,57,62,57
+England Premier League,Wigan Athletic,2015-09-10 00:00:00,51,37,56,Organised,40,62,48
+Netherlands Eredivisie,De Graafschap,2011-02-22 00:00:00,30,,40,Organised,65,42,45
+Netherlands Eredivisie,De Graafschap,2012-02-22 00:00:00,37,,41,Organised,63,52,43
+Netherlands Eredivisie,Willem II,2010-02-22 00:00:00,35,,30,Organised,65,30,30
+Netherlands Eredivisie,Willem II,2011-02-22 00:00:00,72,,57,Organised,49,28,63
+Netherlands Eredivisie,Willem II,2013-09-20 00:00:00,48,,55,Organised,46,43,35
+Netherlands Eredivisie,Willem II,2015-09-10 00:00:00,51,36,63,Organised,52,43,45
+Italy Serie A,Atalanta,2010-02-22 00:00:00,35,,40,Organised,55,30,30
+Italy Serie A,Atalanta,2011-02-22 00:00:00,65,,50,Organised,55,45,55
+Italy Serie A,Atalanta,2012-02-22 00:00:00,40,,50,Organised,50,55,42
+Italy Serie A,Atalanta,2013-09-20 00:00:00,64,,36,Organised,51,54,53
+Italy Serie A,Atalanta,2014-09-19 00:00:00,64,45,37,Organised,51,36,66
+Italy Serie A,Atalanta,2015-09-10 00:00:00,64,45,37,Organised,51,36,63
+France Ligue 1,Stade Brestois 29,2010-02-22 00:00:00,50,,40,Organised,60,70,70
+France Ligue 1,Stade Brestois 29,2011-02-22 00:00:00,65,,35,Organised,50,55,45
+France Ligue 1,Stade Brestois 29,2012-02-22 00:00:00,64,,62,Organised,66,44,34
+France Ligue 1,Stade Brestois 29,2013-09-20 00:00:00,59,,54,Organised,66,44,34
+France Ligue 1,Stade Brestois 29,2014-09-19 00:00:00,59,48,54,Organised,66,44,34
+France Ligue 1,Stade Brestois 29,2015-09-10 00:00:00,59,48,54,Organised,66,44,34
+Scotland Premier League,Aberdeen,2010-02-22 00:00:00,70,,70,Organised,70,60,70
+Scotland Premier League,Aberdeen,2011-02-22 00:00:00,47,,52,Organised,52,47,47
+Scotland Premier League,Aberdeen,2012-02-22 00:00:00,58,,62,Organised,55,40,40
+Scotland Premier League,Aberdeen,2013-09-20 00:00:00,62,,45,Organised,55,42,42
+Scotland Premier League,Aberdeen,2014-09-19 00:00:00,58,64,62,Organised,57,41,42
+Scotland Premier League,Aberdeen,2015-09-10 00:00:00,59,64,53,Organised,63,49,45
+England Premier League,Blackpool,2010-02-22 00:00:00,70,,70,Organised,65,70,70
+England Premier League,Blackpool,2011-02-22 00:00:00,70,,30,Organised,65,45,50
+England Premier League,Blackpool,2012-02-22 00:00:00,45,,52,Organised,58,49,52
+England Premier League,Blackpool,2013-09-20 00:00:00,45,,52,Organised,58,49,52
+England Premier League,Blackpool,2014-09-19 00:00:00,67,44,72,Organised,58,39,38
+England Premier League,Blackpool,2015-09-10 00:00:00,62,36,64,Organised,64,39,38
+France Ligue 1,AS Nancy-Lorraine,2010-02-22 00:00:00,65,,40,Organised,30,70,70
+France Ligue 1,AS Nancy-Lorraine,2011-02-22 00:00:00,35,,35,Organised,35,35,55
+France Ligue 1,AS Nancy-Lorraine,2012-02-22 00:00:00,49,,49,Organised,67,43,46
+France Ligue 1,AS Nancy-Lorraine,2013-09-20 00:00:00,49,,49,Organised,67,43,46
+France Ligue 1,AS Nancy-Lorraine,2014-09-19 00:00:00,49,48,49,Organised,67,43,46
+France Ligue 1,AS Nancy-Lorraine,2015-09-10 00:00:00,49,48,49,Organised,67,43,46
+Spain LIGA BBVA,RC Recreativo,2010-02-22 00:00:00,50,,40,Organised,50,35,55
+Spain LIGA BBVA,RC Recreativo,2011-02-22 00:00:00,45,,58,Organised,52,39,39
+Spain LIGA BBVA,RC Recreativo,2012-02-22 00:00:00,41,,54,Organised,23,40,49
+Spain LIGA BBVA,RC Recreativo,2013-09-20 00:00:00,41,,54,Organised,23,40,49
+Spain LIGA BBVA,RC Recreativo,2014-09-19 00:00:00,41,53,54,Organised,35,40,49
+Spain LIGA BBVA,RC Recreativo,2015-09-10 00:00:00,37,38,43,Organised,37,40,49
+Belgium Jupiler League,Waasland-Beveren,2013-09-20 00:00:00,62,,53,Organised,54,30,49
+Belgium Jupiler League,Waasland-Beveren,2014-09-19 00:00:00,38,45,39,Organised,39,25,37
+Belgium Jupiler League,Waasland-Beveren,2015-09-10 00:00:00,38,45,49,Organised,53,27,32
+England Premier League,Sunderland,2010-02-22 00:00:00,60,,70,Organised,55,35,70
+England Premier League,Sunderland,2011-02-22 00:00:00,55,,55,Organised,55,45,55
+England Premier League,Sunderland,2012-02-22 00:00:00,67,,62,Organised,59,47,53
+England Premier League,Sunderland,2013-09-20 00:00:00,57,,66,Organised,72,47,52
+England Premier League,Sunderland,2014-09-19 00:00:00,60,33,61,Organised,58,41,38
+England Premier League,Sunderland,2015-09-10 00:00:00,43,43,51,Organised,55,47,45
+Scotland Premier League,St. Johnstone FC,2010-02-22 00:00:00,70,,50,Organised,50,30,70
+Scotland Premier League,St. Johnstone FC,2011-02-22 00:00:00,67,,48,Organised,54,33,47
+Scotland Premier League,St. Johnstone FC,2012-02-22 00:00:00,57,,57,Organised,38,42,38
+Scotland Premier League,St. Johnstone FC,2013-09-20 00:00:00,60,,58,Organised,38,44,42
+Scotland Premier League,St. Johnstone FC,2014-09-19 00:00:00,56,48,57,Organised,40,40,40
+Scotland Premier League,St. Johnstone FC,2015-09-10 00:00:00,62,52,48,Organised,40,37,48
+England Premier League,Southampton,2010-02-22 00:00:00,70,,55,Organised,65,70,70
+England Premier League,Southampton,2011-02-22 00:00:00,52,,37,Organised,47,43,43
+England Premier League,Southampton,2012-02-22 00:00:00,47,,52,Organised,60,48,52
+England Premier League,Southampton,2013-09-20 00:00:00,47,,38,Organised,58,57,63
+England Premier League,Southampton,2014-09-19 00:00:00,47,41,40,Organised,51,62,64
+England Premier League,Southampton,2015-09-10 00:00:00,52,31,46,Organised,30,50,65
+Netherlands Eredivisie,N.E.C.,2010-02-22 00:00:00,32,,30,Organised,60,30,30
+Netherlands Eredivisie,N.E.C.,2011-02-22 00:00:00,47,,46,Free Form,32,33,54
+Netherlands Eredivisie,N.E.C.,2012-02-22 00:00:00,46,,38,Organised,50,45,48
+Netherlands Eredivisie,N.E.C.,2013-09-20 00:00:00,46,,41,Organised,57,45,48
+Netherlands Eredivisie,N.E.C.,2014-09-19 00:00:00,49,42,59,Organised,55,40,48
+England Premier League,Portsmouth,2010-02-22 00:00:00,70,,70,Organised,55,40,70
+England Premier League,Portsmouth,2011-02-22 00:00:00,36,,48,Organised,51,36,44
+England Premier League,Portsmouth,2012-02-22 00:00:00,64,,59,Organised,56,49,51
+England Premier League,Portsmouth,2013-09-20 00:00:00,68,,62,Organised,56,49,51
+England Premier League,Portsmouth,2014-09-19 00:00:00,59,32,57,Organised,53,39,40
+England Premier League,Portsmouth,2015-09-10 00:00:00,59,32,57,Organised,53,39,40
+Germany 1. Bundesliga,SC Paderborn 07,2010-02-22 00:00:00,70,,49,Organised,55,30,48
+Germany 1. Bundesliga,SC Paderborn 07,2011-02-22 00:00:00,52,,48,Organised,55,36,48
+Germany 1. Bundesliga,SC Paderborn 07,2012-02-22 00:00:00,67,,59,Organised,68,33,52
+Germany 1. Bundesliga,SC Paderborn 07,2013-09-20 00:00:00,67,,59,Organised,68,40,52
+Germany 1. Bundesliga,SC Paderborn 07,2014-09-19 00:00:00,73,46,55,Organised,63,33,55
+Germany 1. Bundesliga,SC Paderborn 07,2015-09-10 00:00:00,67,46,62,Organised,56,25,29
+Scotland Premier League,Dunfermline Athletic,2012-02-22 00:00:00,55,,60,Organised,54,42,43
+England Premier League,Manchester City,2010-02-22 00:00:00,70,,60,Organised,70,45,55
+England Premier League,Manchester City,2011-02-22 00:00:00,70,,60,Organised,75,65,65
+England Premier League,Manchester City,2012-02-22 00:00:00,45,,55,Organised,48,50,60
+England Premier League,Manchester City,2013-09-20 00:00:00,36,,34,Organised,38,42,44
+England Premier League,Manchester City,2014-09-19 00:00:00,59,35,29,Organised,62,42,44
+England Premier League,Manchester City,2015-09-10 00:00:00,59,35,29,Free Form,24,48,47
+England Premier League,Chelsea,2010-02-22 00:00:00,70,,60,Free Form,70,30,60
+England Premier League,Chelsea,2011-02-22 00:00:00,60,,50,Free Form,80,35,55
+England Premier League,Chelsea,2012-02-22 00:00:00,60,,45,Organised,45,60,62
+England Premier League,Chelsea,2013-09-20 00:00:00,46,,41,Organised,63,42,43
+England Premier League,Chelsea,2014-09-19 00:00:00,67,52,38,Organised,68,39,41
+England Premier League,Chelsea,2015-09-10 00:00:00,67,41,36,Organised,44,39,41
+Scotland Premier League,Hamilton Academical FC,2010-02-22 00:00:00,70,,70,Organised,60,60,65
+Scotland Premier League,Hamilton Academical FC,2011-02-22 00:00:00,66,,52,Organised,34,46,47
+Scotland Premier League,Hamilton Academical FC,2015-09-10 00:00:00,48,48,47,Free Form,71,55,48
+Scotland Premier League,Partick Thistle F.C.,2014-09-19 00:00:00,48,50,37,Organised,52,47,44
+Scotland Premier League,Partick Thistle F.C.,2015-09-10 00:00:00,48,48,47,Organised,60,46,46
+Germany 1. Bundesliga,FC Augsburg,2010-02-22 00:00:00,45,,45,Organised,70,45,55
+Germany 1. Bundesliga,FC Augsburg,2011-02-22 00:00:00,68,,40,Organised,72,59,49
+Germany 1. Bundesliga,FC Augsburg,2012-02-22 00:00:00,55,,55,Organised,55,47,58
+Germany 1. Bundesliga,FC Augsburg,2013-09-20 00:00:00,40,,55,Organised,53,33,43
+Germany 1. Bundesliga,FC Augsburg,2014-09-19 00:00:00,62,38,69,Organised,56,47,55
+Germany 1. Bundesliga,FC Augsburg,2015-09-10 00:00:00,59,51,55,Organised,55,34,50
+Germany 1. Bundesliga,FC Energie Cottbus,2010-02-22 00:00:00,45,,55,Organised,45,68,70
+Germany 1. Bundesliga,FC Energie Cottbus,2011-02-22 00:00:00,64,,55,Organised,52,58,48
+Germany 1. Bundesliga,FC Energie Cottbus,2012-02-22 00:00:00,50,,48,Organised,53,57,47
+Germany 1. Bundesliga,FC Energie Cottbus,2013-09-20 00:00:00,50,,48,Organised,53,57,47
+Germany 1. Bundesliga,FC Energie Cottbus,2014-09-19 00:00:00,39,47,40,Organised,56,47,55
+Spain LIGA BBVA,Real Zaragoza,2010-02-22 00:00:00,30,,30,Free Form,70,40,30
+Spain LIGA BBVA,Real Zaragoza,2011-02-22 00:00:00,43,,40,Organised,42,38,40
+Spain LIGA BBVA,Real Zaragoza,2012-02-22 00:00:00,34,,23,Organised,57,51,46
+Spain LIGA BBVA,Real Zaragoza,2013-09-20 00:00:00,38,,23,Organised,57,51,46
+Spain LIGA BBVA,Real Zaragoza,2014-09-19 00:00:00,38,48,35,Organised,57,51,46
+Spain LIGA BBVA,Real Zaragoza,2015-09-10 00:00:00,52,52,50,Organised,57,48,43
+Spain LIGA BBVA,CD Numancia,2010-02-22 00:00:00,55,,40,Organised,55,30,55
+Spain LIGA BBVA,CD Numancia,2011-02-22 00:00:00,71,,53,Organised,53,40,49
+Spain LIGA BBVA,CD Numancia,2012-02-22 00:00:00,44,,45,Organised,57,50,46
+Spain LIGA BBVA,CD Numancia,2013-09-20 00:00:00,44,,45,Organised,57,50,46
+Spain LIGA BBVA,CD Numancia,2014-09-19 00:00:00,44,48,45,Organised,57,50,46
+Spain LIGA BBVA,CD Numancia,2015-09-10 00:00:00,44,48,45,Organised,57,50,46
+Spain LIGA BBVA,SD Eibar,2014-09-19 00:00:00,62,51,52,Organised,64,37,56
+Spain LIGA BBVA,SD Eibar,2015-09-10 00:00:00,62,51,52,Organised,52,37,56
+Spain LIGA BBVA,CA Osasuna,2010-02-22 00:00:00,35,,35,Organised,55,30,65
+Spain LIGA BBVA,CA Osasuna,2011-02-22 00:00:00,55,,54,Organised,68,48,61
+Spain LIGA BBVA,CA Osasuna,2012-02-22 00:00:00,34,,52,Organised,54,47,52
+Spain LIGA BBVA,CA Osasuna,2013-09-20 00:00:00,38,,52,Organised,54,47,52
+Spain LIGA BBVA,CA Osasuna,2014-09-19 00:00:00,38,53,52,Organised,54,47,52
+Spain LIGA BBVA,CA Osasuna,2015-09-10 00:00:00,38,53,52,Organised,54,47,52
+Spain LIGA BBVA,Rayo Vallecano,2010-02-22 00:00:00,40,,30,Organised,70,30,50
+Spain LIGA BBVA,Rayo Vallecano,2011-02-22 00:00:00,53,,55,Organised,61,58,52
+Spain LIGA BBVA,Rayo Vallecano,2012-02-22 00:00:00,41,,44,Organised,47,63,51
+Spain LIGA BBVA,Rayo Vallecano,2013-09-20 00:00:00,45,,44,Free Form,47,63,51
+Spain LIGA BBVA,Rayo Vallecano,2014-09-19 00:00:00,45,52,44,Organised,47,63,51
+Spain LIGA BBVA,Rayo Vallecano,2015-09-10 00:00:00,29,52,44,Organised,47,54,52
+Germany 1. Bundesliga,SC Freiburg,2010-02-22 00:00:00,50,,30,Organised,60,55,50
+Germany 1. Bundesliga,SC Freiburg,2011-02-22 00:00:00,50,,47,Organised,34,41,42
+Germany 1. Bundesliga,SC Freiburg,2012-02-22 00:00:00,52,,61,Organised,42,30,50
+Germany 1. Bundesliga,SC Freiburg,2013-09-20 00:00:00,59,,38,Organised,43,53,62
+Germany 1. Bundesliga,SC Freiburg,2014-09-19 00:00:00,39,58,48,Organised,44,59,60
+Germany 1. Bundesliga,SC Freiburg,2015-09-10 00:00:00,59,54,38,Organised,45,53,62
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2010-02-22 00:00:00,55,,45,Organised,70,40,55
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2011-02-22 00:00:00,59,,40,Organised,48,59,46
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2012-02-22 00:00:00,68,,45,Organised,43,48,56
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2013-09-20 00:00:00,57,,53,Organised,46,36,56
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2014-09-19 00:00:00,66,60,38,Organised,52,49,48
+Germany 1. Bundesliga,SpVgg Greuther Fürth,2015-09-10 00:00:00,54,60,53,Organised,46,48,56
+Germany 1. Bundesliga,1. FC Kaiserslautern,2010-02-22 00:00:00,45,,55,Organised,70,70,70
+Germany 1. Bundesliga,1. FC Kaiserslautern,2011-02-22 00:00:00,48,,42,Organised,53,38,48
+Germany 1. Bundesliga,1. FC Kaiserslautern,2012-02-22 00:00:00,38,,54,Organised,64,37,51
+Germany 1. Bundesliga,1. FC Kaiserslautern,2013-09-20 00:00:00,61,,54,Organised,56,48,50
+Germany 1. Bundesliga,1. FC Kaiserslautern,2014-09-19 00:00:00,66,48,53,Organised,51,47,47
+Germany 1. Bundesliga,1. FC Kaiserslautern,2015-09-10 00:00:00,49,54,52,Organised,64,41,51
+Portugal Liga ZON Sagres,Moreirense FC,2013-09-20 00:00:00,38,,43,Organised,39,44,46
+Portugal Liga ZON Sagres,Moreirense FC,2015-09-10 00:00:00,38,58,43,Organised,39,44,46
+England Premier League,Cardiff City,2010-02-22 00:00:00,65,,70,Organised,70,70,70
+England Premier League,Cardiff City,2011-02-22 00:00:00,67,,49,Organised,48,46,47
+England Premier League,Cardiff City,2012-02-22 00:00:00,60,,64,Organised,54,47,43
+England Premier League,Cardiff City,2013-09-20 00:00:00,60,,69,Organised,62,47,43
+England Premier League,Cardiff City,2014-09-19 00:00:00,60,29,54,Organised,41,33,41
+England Premier League,Cardiff City,2015-09-10 00:00:00,60,41,67,Organised,46,33,41
+Belgium Jupiler League,Club Brugge KV,2010-02-22 00:00:00,35,,40,Organised,45,60,70
+Belgium Jupiler League,Club Brugge KV,2011-02-22 00:00:00,67,,47,Free Form,53,57,44
+Belgium Jupiler League,Club Brugge KV,2012-02-22 00:00:00,64,,54,Organised,47,60,50
+Belgium Jupiler League,Club Brugge KV,2013-09-20 00:00:00,45,,48,Organised,47,43,59
+Belgium Jupiler League,Club Brugge KV,2014-09-19 00:00:00,42,52,45,Organised,47,51,50
+Belgium Jupiler League,Club Brugge KV,2015-09-10 00:00:00,42,52,45,Organised,47,51,50
+Poland Ekstraklasa,Arka Gdynia,2010-02-22 00:00:00,30,,45,Organised,70,65,70
+Poland Ekstraklasa,Arka Gdynia,2011-02-22 00:00:00,46,,37,Organised,52,47,48
+Spain LIGA BBVA,Athletic Club de Bilbao,2010-02-22 00:00:00,60,,45,Organised,55,30,70
+Spain LIGA BBVA,Athletic Club de Bilbao,2011-02-22 00:00:00,70,,69,Organised,57,48,67
+Spain LIGA BBVA,Athletic Club de Bilbao,2012-02-22 00:00:00,42,,59,Organised,59,37,60
+Spain LIGA BBVA,Athletic Club de Bilbao,2013-09-20 00:00:00,46,,38,Organised,37,37,60
+Spain LIGA BBVA,Athletic Club de Bilbao,2014-09-19 00:00:00,46,41,38,Organised,37,37,60
+Spain LIGA BBVA,Athletic Club de Bilbao,2015-09-10 00:00:00,46,46,39,Organised,36,49,57
+Spain LIGA BBVA,UD Las Palmas,2010-02-22 00:00:00,30,,30,Organised,70,35,45
+Spain LIGA BBVA,UD Las Palmas,2011-02-22 00:00:00,54,,56,Organised,59,48,56
+Spain LIGA BBVA,UD Las Palmas,2012-02-22 00:00:00,48,,44,Organised,53,53,39
+Spain LIGA BBVA,UD Las Palmas,2013-09-20 00:00:00,48,,44,Organised,53,53,39
+Spain LIGA BBVA,UD Las Palmas,2014-09-19 00:00:00,48,55,44,Organised,53,53,39
+Spain LIGA BBVA,UD Las Palmas,2015-09-10 00:00:00,48,55,44,Organised,53,53,39
+Spain LIGA BBVA,Getafe CF,2010-02-22 00:00:00,30,,35,Organised,70,40,30
+Spain LIGA BBVA,Getafe CF,2011-02-22 00:00:00,54,,45,Organised,57,59,39
+Spain LIGA BBVA,Getafe CF,2012-02-22 00:00:00,25,,40,Organised,52,49,45
+Spain LIGA BBVA,Getafe CF,2013-09-20 00:00:00,29,,40,Organised,52,49,45
+Spain LIGA BBVA,Getafe CF,2014-09-19 00:00:00,35,42,40,Organised,52,49,45
+Spain LIGA BBVA,Getafe CF,2015-09-10 00:00:00,34,41,38,Organised,49,43,42
+Spain LIGA BBVA,Sevilla FC,2010-02-22 00:00:00,30,,30,Free Form,70,60,70
+Spain LIGA BBVA,Sevilla FC,2011-02-22 00:00:00,68,,58,Free Form,71,57,58
+Spain LIGA BBVA,Sevilla FC,2012-02-22 00:00:00,61,,65,Organised,38,38,49
+Spain LIGA BBVA,Sevilla FC,2013-09-20 00:00:00,65,,65,Organised,38,38,49
+Spain LIGA BBVA,Sevilla FC,2014-09-19 00:00:00,65,53,65,Organised,38,38,49
+Spain LIGA BBVA,Sevilla FC,2015-09-10 00:00:00,53,53,53,Organised,60,42,48
+Germany 1. Bundesliga,Karlsruher SC,2010-02-22 00:00:00,70,,35,Organised,70,65,40
+Germany 1. Bundesliga,Karlsruher SC,2011-02-22 00:00:00,53,,55,Organised,56,52,46
+Germany 1. Bundesliga,Karlsruher SC,2012-02-22 00:00:00,54,,47,Organised,49,34,46
+Germany 1. Bundesliga,Karlsruher SC,2014-09-19 00:00:00,56,55,53,Organised,49,32,46
+Germany 1. Bundesliga,Karlsruher SC,2015-09-10 00:00:00,54,52,47,Organised,49,34,46
+Scotland Premier League,Dundee FC,2013-09-20 00:00:00,50,,49,Organised,53,48,47
+Scotland Premier League,Dundee FC,2015-09-10 00:00:00,47,47,48,Organised,65,50,44
+Netherlands Eredivisie,Vitesse,2010-02-22 00:00:00,35,,35,Organised,60,30,30
+Netherlands Eredivisie,Vitesse,2011-02-22 00:00:00,33,,50,Organised,54,55,60
+Netherlands Eredivisie,Vitesse,2012-02-22 00:00:00,37,,30,Organised,56,42,54
+Netherlands Eredivisie,Vitesse,2013-09-20 00:00:00,37,,39,Organised,62,42,45
+Netherlands Eredivisie,Vitesse,2014-09-19 00:00:00,53,55,32,Organised,56,42,54
+Netherlands Eredivisie,Vitesse,2015-09-10 00:00:00,57,40,48,Free Form,71,60,58
+Germany 1. Bundesliga,SV Darmstadt 98,2015-09-10 00:00:00,59,43,77,Organised,45,32,56
+Poland Ekstraklasa,Korona Kielce,2010-02-22 00:00:00,30,,45,Organised,70,50,70
+Poland Ekstraklasa,Korona Kielce,2011-02-22 00:00:00,67,,66,Organised,69,57,48
+Poland Ekstraklasa,Korona Kielce,2012-02-22 00:00:00,75,,62,Organised,68,58,43
+Poland Ekstraklasa,Korona Kielce,2013-09-20 00:00:00,70,,50,Organised,68,58,43
+Poland Ekstraklasa,Korona Kielce,2014-09-19 00:00:00,73,69,50,Organised,36,30,43
+Poland Ekstraklasa,Korona Kielce,2015-09-10 00:00:00,59,69,50,Organised,36,30,43
+Poland Ekstraklasa,Widzew Łódź,2011-02-22 00:00:00,63,,48,Organised,53,37,58
+Poland Ekstraklasa,Widzew Łódź,2012-02-22 00:00:00,66,,72,Organised,54,32,32
+Poland Ekstraklasa,Widzew Łódź,2013-09-20 00:00:00,66,,59,Organised,54,32,43
+Poland Ekstraklasa,Widzew Łódź,2014-09-19 00:00:00,66,52,72,Organised,51,36,38
+Poland Ekstraklasa,Odra Wodzisław,2010-02-22 00:00:00,30,,45,Organised,70,70,70
+Germany 1. Bundesliga,FC Ingolstadt 04,2011-02-22 00:00:00,47,,54,Organised,46,37,50
+Germany 1. Bundesliga,FC Ingolstadt 04,2012-02-22 00:00:00,55,,46,Organised,51,33,42
+Germany 1. Bundesliga,FC Ingolstadt 04,2013-09-20 00:00:00,55,,46,Organised,51,33,42
+Germany 1. Bundesliga,FC Ingolstadt 04,2014-09-19 00:00:00,54,59,47,Organised,52,42,36
+Germany 1. Bundesliga,FC Ingolstadt 04,2015-09-10 00:00:00,55,51,46,Organised,51,37,48
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2010-02-22 00:00:00,70,,30,Organised,55,65,70
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2011-02-22 00:00:00,75,,35,Organised,68,68,50
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2012-02-22 00:00:00,61,,53,Organised,54,47,59
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2013-09-20 00:00:00,32,,53,Organised,64,47,52
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2014-09-19 00:00:00,68,49,63,Organised,55,56,57
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,2015-09-10 00:00:00,69,49,53,Organised,59,63,61
+Belgium Jupiler League,KV Mechelen,2010-02-22 00:00:00,65,,60,Organised,50,60,70
+Belgium Jupiler League,KV Mechelen,2011-02-22 00:00:00,67,,57,Organised,52,48,61
+Belgium Jupiler League,KV Mechelen,2012-02-22 00:00:00,52,,54,Organised,50,52,60
+Belgium Jupiler League,KV Mechelen,2013-09-20 00:00:00,52,,33,Organised,50,42,60
+Belgium Jupiler League,KV Mechelen,2014-09-19 00:00:00,52,42,40,Organised,50,42,51
+Belgium Jupiler League,KV Mechelen,2015-09-10 00:00:00,52,42,40,Organised,50,42,51
+England Premier League,Leicester City,2010-02-22 00:00:00,70,,70,Organised,45,70,70
+England Premier League,Leicester City,2011-02-22 00:00:00,36,,52,Organised,52,51,34
+England Premier League,Leicester City,2012-02-22 00:00:00,45,,48,Organised,56,48,52
+England Premier League,Leicester City,2013-09-20 00:00:00,45,,48,Organised,56,48,52
+England Premier League,Leicester City,2014-09-19 00:00:00,63,36,48,Organised,69,58,62
+England Premier League,Leicester City,2015-09-10 00:00:00,63,41,60,Organised,46,58,65
+Germany 1. Bundesliga,Fortuna Düsseldorf,2010-02-22 00:00:00,65,,35,Organised,52,45,70
+Germany 1. Bundesliga,Fortuna Düsseldorf,2011-02-22 00:00:00,51,,38,Organised,54,46,59
+Germany 1. Bundesliga,Fortuna Düsseldorf,2012-02-22 00:00:00,67,,47,Organised,55,56,57
+Germany 1. Bundesliga,Fortuna Düsseldorf,2013-09-20 00:00:00,41,,69,Organised,52,24,48
+Germany 1. Bundesliga,Fortuna Düsseldorf,2014-09-19 00:00:00,72,69,57,Organised,37,47,48
+Germany 1. Bundesliga,Fortuna Düsseldorf,2015-09-10 00:00:00,47,62,47,Organised,55,56,57
+England Premier League,Burnley,2010-02-22 00:00:00,70,,65,Organised,70,65,70
+England Premier League,Burnley,2011-02-22 00:00:00,36,,52,Organised,55,24,56
+England Premier League,Burnley,2012-02-22 00:00:00,48,,44,Organised,48,52,50
+England Premier League,Burnley,2013-09-20 00:00:00,54,,55,Organised,48,48,50
+England Premier League,Burnley,2014-09-19 00:00:00,48,32,74,Organised,58,54,57
+England Premier League,Burnley,2015-09-10 00:00:00,54,32,67,Organised,47,63,62
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2010-02-22 00:00:00,70,,30,Organised,70,70,60
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2011-02-22 00:00:00,67,,38,Organised,55,57,39
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2012-02-22 00:00:00,58,,55,Organised,56,50,42
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2013-09-20 00:00:00,64,,55,Organised,37,58,38
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2014-09-19 00:00:00,69,30,55,Organised,39,50,46
+Germany 1. Bundesliga,Bayer 04 Leverkusen,2015-09-10 00:00:00,73,29,55,Organised,61,61,72
+Germany 1. Bundesliga,Hertha BSC Berlin,2010-02-22 00:00:00,60,,50,Organised,55,55,30
+Germany 1. Bundesliga,Hertha BSC Berlin,2011-02-22 00:00:00,59,,43,Organised,66,50,43
+Germany 1. Bundesliga,Hertha BSC Berlin,2012-02-22 00:00:00,48,,45,Organised,46,50,50
+Germany 1. Bundesliga,Hertha BSC Berlin,2013-09-20 00:00:00,40,,55,Organised,63,50,38
+Germany 1. Bundesliga,Hertha BSC Berlin,2014-09-19 00:00:00,68,52,55,Organised,59,41,60
+Germany 1. Bundesliga,Hertha BSC Berlin,2015-09-10 00:00:00,47,44,55,Organised,45,50,45
+Germany 1. Bundesliga,1. FC Nürnberg,2010-02-22 00:00:00,45,,50,Organised,70,55,55
+Germany 1. Bundesliga,1. FC Nürnberg,2011-02-22 00:00:00,45,,50,Organised,56,55,61
+Germany 1. Bundesliga,1. FC Nürnberg,2012-02-22 00:00:00,44,,49,Organised,48,30,40
+Germany 1. Bundesliga,1. FC Nürnberg,2013-09-20 00:00:00,46,,49,Organised,67,39,57
+Germany 1. Bundesliga,1. FC Nürnberg,2014-09-19 00:00:00,46,62,38,Organised,55,51,50
+Germany 1. Bundesliga,1. FC Nürnberg,2015-09-10 00:00:00,46,58,49,Organised,59,30,40
+Germany 1. Bundesliga,FC St. Pauli,2010-02-22 00:00:00,60,,60,Organised,70,60,70
+Germany 1. Bundesliga,FC St. Pauli,2011-02-22 00:00:00,60,,42,Organised,56,49,60
+Germany 1. Bundesliga,FC St. Pauli,2012-02-22 00:00:00,53,,64,Organised,53,49,44
+Germany 1. Bundesliga,FC St. Pauli,2013-09-20 00:00:00,53,,56,Organised,53,49,44
+Germany 1. Bundesliga,FC St. Pauli,2014-09-19 00:00:00,53,52,56,Organised,34,46,44
+Germany 1. Bundesliga,FC St. Pauli,2015-09-10 00:00:00,52,52,56,Organised,38,39,44
+France Ligue 1,Angers SCO,2010-02-22 00:00:00,45,,35,Organised,60,30,55
+France Ligue 1,Angers SCO,2011-02-22 00:00:00,65,,50,Organised,65,45,45
+France Ligue 1,Angers SCO,2012-02-22 00:00:00,50,,50,Organised,48,44,44
+France Ligue 1,Angers SCO,2013-09-20 00:00:00,50,,50,Organised,48,44,44
+France Ligue 1,Angers SCO,2014-09-19 00:00:00,48,61,50,Organised,48,44,44
+France Ligue 1,Angers SCO,2015-09-10 00:00:00,48,61,50,Organised,48,44,44
+Scotland Premier League,Inverness Caledonian Thistle,2011-02-22 00:00:00,36,,67,Organised,51,37,57
+Scotland Premier League,Inverness Caledonian Thistle,2012-02-22 00:00:00,61,,59,Organised,54,40,40
+Scotland Premier League,Inverness Caledonian Thistle,2013-09-20 00:00:00,35,,54,Organised,61,47,46
+Scotland Premier League,Inverness Caledonian Thistle,2014-09-19 00:00:00,61,49,59,Organised,55,43,41
+Scotland Premier League,Inverness Caledonian Thistle,2015-09-10 00:00:00,48,47,32,Organised,69,44,44
+Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,2012-02-22 00:00:00,54,,51,Organised,42,47,57
+Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,2013-09-20 00:00:00,54,,51,Organised,42,47,57
+Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,2014-09-19 00:00:00,72,55,66,Organised,49,29,35
+Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,2015-09-10 00:00:00,68,55,66,Organised,49,29,35
+Poland Ekstraklasa,Polonia Bytom,2010-02-22 00:00:00,30,,50,Organised,70,60,70
+Poland Ekstraklasa,Polonia Bytom,2011-02-22 00:00:00,46,,38,Organised,53,53,54
+Poland Ekstraklasa,Lechia Gdańsk,2010-02-22 00:00:00,30,,45,Organised,70,70,70
+Poland Ekstraklasa,Lechia Gdańsk,2011-02-22 00:00:00,63,,37,Organised,52,46,60
+Poland Ekstraklasa,Lechia Gdańsk,2012-02-22 00:00:00,44,,52,Organised,68,49,48
+Poland Ekstraklasa,Lechia Gdańsk,2013-09-20 00:00:00,44,,52,Organised,68,49,59
+Poland Ekstraklasa,Lechia Gdańsk,2014-09-19 00:00:00,62,48,52,Organised,52,37,58
+Poland Ekstraklasa,Lechia Gdańsk,2015-09-10 00:00:00,62,48,52,Free Form,58,51,58
+Poland Ekstraklasa,Piast Gliwice,2010-02-22 00:00:00,30,,45,Organised,70,65,70
+Poland Ekstraklasa,Piast Gliwice,2013-09-20 00:00:00,30,,46,Organised,39,32,45
+Poland Ekstraklasa,Piast Gliwice,2014-09-19 00:00:00,64,52,67,Organised,39,36,45
+Poland Ekstraklasa,Piast Gliwice,2015-09-10 00:00:00,64,52,67,Organised,39,36,45
+Poland Ekstraklasa,Zawisza Bydgoszcz,2014-09-19 00:00:00,54,51,40,Organised,52,44,47
+Poland Ekstraklasa,Zawisza Bydgoszcz,2015-09-10 00:00:00,54,51,40,Organised,52,44,47
+Poland Ekstraklasa,Śląsk Wrocław,2010-02-22 00:00:00,30,,45,Organised,70,60,70
+Poland Ekstraklasa,Śląsk Wrocław,2011-02-22 00:00:00,47,,55,Organised,54,48,47
+Poland Ekstraklasa,Śląsk Wrocław,2012-02-22 00:00:00,65,,63,Organised,67,24,24
+Poland Ekstraklasa,Śląsk Wrocław,2013-09-20 00:00:00,65,,50,Organised,67,30,30
+Poland Ekstraklasa,Śląsk Wrocław,2014-09-19 00:00:00,47,53,34,Organised,68,37,37
+Poland Ekstraklasa,Śląsk Wrocław,2015-09-10 00:00:00,50,55,35,Organised,55,45,55
+Poland Ekstraklasa,Widzew Łódź,2011-02-22 00:00:00,63,,48,Organised,53,37,58
+Poland Ekstraklasa,Widzew Łódź,2012-02-22 00:00:00,66,,72,Organised,54,32,32
+Poland Ekstraklasa,Widzew Łódź,2013-09-20 00:00:00,66,,59,Organised,54,32,43
+Poland Ekstraklasa,Widzew Łódź,2014-09-19 00:00:00,66,52,72,Organised,51,36,38
+Poland Ekstraklasa,Pogoń Szczecin,2013-09-20 00:00:00,67,,54,Organised,67,47,47
+Poland Ekstraklasa,Pogoń Szczecin,2014-09-19 00:00:00,50,48,36,Free Form,52,50,60
+Poland Ekstraklasa,Pogoń Szczecin,2015-09-10 00:00:00,50,33,36,Organised,52,57,54
+Poland Ekstraklasa,Zagłębie Lubin,2010-02-22 00:00:00,55,,60,Organised,70,70,70
+Poland Ekstraklasa,Zagłębie Lubin,2011-02-22 00:00:00,54,,37,Organised,37,47,58
+Poland Ekstraklasa,Zagłębie Lubin,2012-02-22 00:00:00,33,,38,Organised,73,58,47
+Poland Ekstraklasa,Zagłębie Lubin,2013-09-20 00:00:00,33,,38,Organised,48,58,47
+Poland Ekstraklasa,Zagłębie Lubin,2014-09-19 00:00:00,33,49,51,Organised,48,58,38
+Poland Ekstraklasa,Polonia Bytom,2010-02-22 00:00:00,30,,50,Organised,70,60,70
+Poland Ekstraklasa,Polonia Bytom,2011-02-22 00:00:00,46,,38,Organised,53,53,54
+Poland Ekstraklasa,Górnik Łęczna,2015-09-10 00:00:00,41,40,59,Organised,54,52,47
+Switzerland Super League,Neuchâtel Xamax,2010-02-22 00:00:00,60,,45,Organised,60,50,45
+Switzerland Super League,Neuchâtel Xamax,2011-02-22 00:00:00,54,,47,Organised,53,49,45
+Switzerland Super League,Neuchâtel Xamax,2012-02-22 00:00:00,49,,50,Organised,34,34,31
+Italy Serie A,Sassuolo,2010-02-22 00:00:00,30,,30,Organised,60,30,30
+Italy Serie A,Sassuolo,2011-02-22 00:00:00,50,,50,Organised,60,45,30
+Italy Serie A,Sassuolo,2012-02-22 00:00:00,50,,50,Organised,50,35,45
+Italy Serie A,Sassuolo,2013-09-20 00:00:00,57,,60,Organised,64,38,47
+Italy Serie A,Sassuolo,2014-09-19 00:00:00,57,71,60,Organised,63,54,47
+Italy Serie A,Sassuolo,2015-09-10 00:00:00,57,65,60,Organised,56,38,47
+Spain LIGA BBVA,Granada CF,2011-02-22 00:00:00,53,,52,Organised,55,54,49
+Spain LIGA BBVA,Granada CF,2012-02-22 00:00:00,48,,37,Organised,52,49,45
+Spain LIGA BBVA,Granada CF,2013-09-20 00:00:00,52,,37,Organised,52,49,45
+Spain LIGA BBVA,Granada CF,2014-09-19 00:00:00,52,62,37,Organised,52,49,45
+Spain LIGA BBVA,Granada CF,2015-09-10 00:00:00,57,50,59,Organised,51,48,45
+Spain LIGA BBVA,Córdoba CF,2010-02-22 00:00:00,30,,30,Organised,60,35,30
+Spain LIGA BBVA,Córdoba CF,2011-02-22 00:00:00,39,,41,Organised,46,40,38
+Spain LIGA BBVA,Córdoba CF,2012-02-22 00:00:00,40,,53,Organised,48,36,41
+Spain LIGA BBVA,Córdoba CF,2013-09-20 00:00:00,40,,53,Organised,48,36,41
+Spain LIGA BBVA,Córdoba CF,2014-09-19 00:00:00,40,53,53,Organised,48,36,41
+Spain LIGA BBVA,Córdoba CF,2015-09-10 00:00:00,53,40,48,Organised,57,38,39
+Portugal Liga ZON Sagres,Vitória Guimarães,2010-02-22 00:00:00,30,,30,Organised,55,30,30
+Portugal Liga ZON Sagres,Vitória Guimarães,2011-02-22 00:00:00,65,,47,Organised,49,55,55
+Portugal Liga ZON Sagres,Vitória Guimarães,2012-02-22 00:00:00,40,,39,Organised,58,50,59
+Portugal Liga ZON Sagres,Vitória Guimarães,2013-09-20 00:00:00,40,,39,Organised,58,50,59
+Portugal Liga ZON Sagres,Vitória Guimarães,2014-09-19 00:00:00,40,52,39,Organised,58,37,40
+Portugal Liga ZON Sagres,Vitória Guimarães,2015-09-10 00:00:00,40,52,39,Organised,58,37,40
+Portugal Liga ZON Sagres,Estoril Praia,2013-09-20 00:00:00,66,,52,Organised,39,46,49
+Portugal Liga ZON Sagres,Estoril Praia,2014-09-19 00:00:00,66,56,52,Organised,39,46,49
+Portugal Liga ZON Sagres,Estoril Praia,2015-09-10 00:00:00,59,56,52,Organised,39,46,49
+Portugal Liga ZON Sagres,Rio Ave FC,2010-02-22 00:00:00,30,,30,Organised,60,30,30
+Portugal Liga ZON Sagres,Rio Ave FC,2011-02-22 00:00:00,50,,50,Organised,50,45,45
+Portugal Liga ZON Sagres,Rio Ave FC,2012-02-22 00:00:00,36,,38,Organised,54,39,50
+Portugal Liga ZON Sagres,Rio Ave FC,2013-09-20 00:00:00,36,,38,Organised,54,39,50
+Portugal Liga ZON Sagres,Rio Ave FC,2014-09-19 00:00:00,66,47,44,Organised,54,39,48
+Portugal Liga ZON Sagres,Rio Ave FC,2015-09-10 00:00:00,66,47,44,Organised,54,39,48
+France Ligue 1,SM Caen,2010-02-22 00:00:00,65,,30,Organised,40,70,65
+France Ligue 1,SM Caen,2011-02-22 00:00:00,65,,35,Organised,65,55,45
+France Ligue 1,SM Caen,2012-02-22 00:00:00,48,,52,Organised,53,47,45
+France Ligue 1,SM Caen,2013-09-20 00:00:00,48,,52,Organised,53,47,45
+France Ligue 1,SM Caen,2014-09-19 00:00:00,62,50,45,Organised,53,43,42
+France Ligue 1,SM Caen,2015-09-10 00:00:00,62,50,45,Organised,53,43,42
+France Ligue 1,SC Bastia,2010-02-22 00:00:00,40,,45,Organised,55,70,70
+France Ligue 1,SC Bastia,2012-02-22 00:00:00,50,,50,Organised,49,44,45
+France Ligue 1,SC Bastia,2013-09-20 00:00:00,50,,50,Organised,49,44,45
+France Ligue 1,SC Bastia,2014-09-19 00:00:00,67,61,43,Organised,49,39,47
+France Ligue 1,SC Bastia,2015-09-10 00:00:00,61,61,52,Organised,49,44,55
+Netherlands Eredivisie,SC Cambuur,2014-09-19 00:00:00,45,39,42,Organised,57,42,49
+Netherlands Eredivisie,SC Cambuur,2015-09-10 00:00:00,43,36,57,Organised,38,42,49
+Switzerland Super League,FC Lausanne-Sports,2010-02-22 00:00:00,30,,60,Organised,60,55,60
+Switzerland Super League,FC Lausanne-Sports,2012-02-22 00:00:00,37,,49,Organised,48,43,43
+Switzerland Super League,FC Lausanne-Sports,2013-09-20 00:00:00,51,,49,Organised,48,43,43
+Switzerland Super League,FC Lausanne-Sports,2014-09-19 00:00:00,37,55,49,Organised,52,46,44
+Netherlands Eredivisie,FC Dordrecht,2015-09-10 00:00:00,39,33,62,Organised,48,51,58
+Portugal Liga ZON Sagres,FC Penafiel,2015-09-10 00:00:00,54,54,39,Organised,38,40,35
+Switzerland Super League,AC Bellinzona,2010-02-22 00:00:00,40,,50,Organised,55,45,50
+Switzerland Super League,AC Bellinzona,2011-02-22 00:00:00,47,,54,Organised,55,32,50
+Netherlands Eredivisie,Go Ahead Eagles,2014-09-19 00:00:00,55,47,42,Organised,53,43,47
+Netherlands Eredivisie,Go Ahead Eagles,2015-09-10 00:00:00,58,38,64,Organised,52,43,47
+Portugal Liga ZON Sagres,Leixões SC,2010-02-22 00:00:00,30,,30,Organised,65,30,30
+Netherlands Eredivisie,PEC Zwolle,2013-09-20 00:00:00,47,,49,Organised,54,46,44
+Netherlands Eredivisie,PEC Zwolle,2014-09-19 00:00:00,57,41,39,Organised,54,58,60
+Netherlands Eredivisie,PEC Zwolle,2015-09-10 00:00:00,45,35,56,Organised,58,58,60
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2010-02-22 00:00:00,30,,30,Organised,60,30,30
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2011-02-22 00:00:00,50,,50,Organised,49,45,55
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2012-02-22 00:00:00,38,,39,Organised,52,36,39
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2013-09-20 00:00:00,50,,39,Organised,52,36,39
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2014-09-19 00:00:00,38,40,39,Organised,52,36,39
+Portugal Liga ZON Sagres,FC Paços de Ferreira,2015-09-10 00:00:00,63,40,39,Organised,52,36,39
+France Ligue 1,GFC Ajaccio,2013-09-20 00:00:00,61,,52,Organised,58,47,46
+France Ligue 1,GFC Ajaccio,2015-09-10 00:00:00,48,53,52,Organised,55,42,46
+Belgium Jupiler League,KAS Eupen,2011-02-22 00:00:00,50,,55,Organised,55,50,50
+Italy Serie A,Novara,2011-02-22 00:00:00,53,,35,Organised,49,60,51
+Italy Serie A,Novara,2012-02-22 00:00:00,55,,50,Organised,50,35,45
+Italy Serie A,Novara,2013-09-20 00:00:00,66,,62,Organised,61,36,49
+Italy Serie A,Novara,2014-09-19 00:00:00,66,57,56,Organised,57,36,49
+France Ligue 1,US Boulogne Cote D'Opale,2010-02-22 00:00:00,45,,30,Organised,60,70,60
+France Ligue 1,US Boulogne Cote D'Opale,2011-02-22 00:00:00,50,,35,Organised,65,35,55
+France Ligue 1,US Boulogne Cote D'Opale,2012-02-22 00:00:00,49,,37,Organised,50,45,44
+France Ligue 1,Évian Thonon Gaillard FC,2011-02-22 00:00:00,35,,65,Organised,65,45,55
+France Ligue 1,Évian Thonon Gaillard FC,2012-02-22 00:00:00,53,,44,Organised,64,47,56
+France Ligue 1,Évian Thonon Gaillard FC,2013-09-20 00:00:00,53,,44,Organised,64,47,56
+France Ligue 1,Évian Thonon Gaillard FC,2014-09-19 00:00:00,61,51,44,Organised,48,47,56
+France Ligue 1,Évian Thonon Gaillard FC,2015-09-10 00:00:00,58,35,56,Organised,51,47,43
+Poland Ekstraklasa,Cracovia,2010-02-22 00:00:00,30,,45,Organised,65,70,70
+Poland Ekstraklasa,Cracovia,2011-02-22 00:00:00,46,,51,Organised,52,48,33
+Poland Ekstraklasa,Cracovia,2012-02-22 00:00:00,57,,59,Organised,78,59,51
+Poland Ekstraklasa,Cracovia,2014-09-19 00:00:00,37,50,38,Organised,33,59,34
+Poland Ekstraklasa,Cracovia,2015-09-10 00:00:00,37,50,38,Organised,33,59,34
+Poland Ekstraklasa,P. Warszawa,2010-02-22 00:00:00,30,,40,Organised,70,55,65
+Poland Ekstraklasa,P. Warszawa,2011-02-22 00:00:00,33,,47,Organised,53,55,34
+Poland Ekstraklasa,P. Warszawa,2012-02-22 00:00:00,34,,45,Organised,74,31,32
+Poland Ekstraklasa,P. Warszawa,2013-09-20 00:00:00,34,,45,Organised,40,57,32
+Poland Ekstraklasa,Lech Poznań,2010-02-22 00:00:00,40,,35,Organised,70,60,55
+Poland Ekstraklasa,Lech Poznań,2011-02-22 00:00:00,64,,57,Organised,70,59,37
+Poland Ekstraklasa,Lech Poznań,2012-02-22 00:00:00,67,,54,Organised,67,47,47
+Poland Ekstraklasa,Lech Poznań,2013-09-20 00:00:00,67,,54,Organised,67,47,47
+Poland Ekstraklasa,Lech Poznań,2014-09-19 00:00:00,67,55,54,Organised,67,47,47
+Poland Ekstraklasa,Lech Poznań,2015-09-10 00:00:00,57,50,40,Free Form,67,50,58
+Portugal Liga ZON Sagres,S.C. Olhanense,2010-02-22 00:00:00,45,,55,Organised,45,50,45
+Portugal Liga ZON Sagres,S.C. Olhanense,2011-02-22 00:00:00,65,,55,Organised,65,50,45
+Portugal Liga ZON Sagres,S.C. Olhanense,2012-02-22 00:00:00,45,,40,Organised,44,37,24
+Portugal Liga ZON Sagres,S.C. Olhanense,2013-09-20 00:00:00,45,,52,Organised,43,37,31
+Portugal Liga ZON Sagres,S.C. Olhanense,2014-09-19 00:00:00,45,62,40,Organised,44,37,24
+Poland Ekstraklasa,Jagiellonia Białystok,2010-02-22 00:00:00,30,,50,Organised,70,70,70
+Poland Ekstraklasa,Jagiellonia Białystok,2011-02-22 00:00:00,33,,52,Organised,64,32,56
+Poland Ekstraklasa,Jagiellonia Białystok,2012-02-22 00:00:00,58,,69,Organised,68,40,50
+Poland Ekstraklasa,Jagiellonia Białystok,2013-09-20 00:00:00,58,,69,Organised,68,40,50
+Poland Ekstraklasa,Jagiellonia Białystok,2014-09-19 00:00:00,38,54,38,Organised,66,57,56
+Poland Ekstraklasa,Jagiellonia Białystok,2015-09-10 00:00:00,66,54,38,Organised,66,57,56
+Belgium Jupiler League,Oud-Heverlee Leuven,2012-02-22 00:00:00,52,,50,Organised,54,43,44
+Belgium Jupiler League,Oud-Heverlee Leuven,2013-09-20 00:00:00,52,,50,Organised,54,43,44
+Belgium Jupiler League,Oud-Heverlee Leuven,2014-09-19 00:00:00,52,51,50,Organised,54,43,44
+Poland Ekstraklasa,Ruch Chorzów,2010-02-22 00:00:00,30,,40,Organised,70,65,60
+Poland Ekstraklasa,Ruch Chorzów,2011-02-22 00:00:00,48,,51,Organised,51,46,48
+Poland Ekstraklasa,Ruch Chorzów,2012-02-22 00:00:00,53,,55,Organised,50,43,44
+Poland Ekstraklasa,Ruch Chorzów,2013-09-20 00:00:00,53,,55,Organised,50,43,44
+Poland Ekstraklasa,Ruch Chorzów,2014-09-19 00:00:00,53,48,38,Organised,50,43,44
+Poland Ekstraklasa,Ruch Chorzów,2015-09-10 00:00:00,47,48,38,Organised,50,43,44
